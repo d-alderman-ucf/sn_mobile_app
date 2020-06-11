@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description>Update the comments on a TASK form.</description>
+        <execution_script/>
+        <name>Update TASK Work Notes</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-09 17:42:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2789058adb80549096b0fb37bf9619a5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Update TASK Work Notes</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_2789058adb80549096b0fb37bf9619a5</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-09 17:46:24</sys_updated_on>
+        <table>sc_task</table>
+        <template>work_notes={{Update Work Notes}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>53d8c4344ff25ec0152a99701310c7f2</instance_id>
+        <instance_name>ucfsandbox</instance_name>
+        <name>sys_sg_write_back_action_item_2789058adb80549096b0fb37bf9619a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description>Update the comments on a TASK form.</description><execution_script/><name>Update TASK Work Notes</name><query_condition/><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-04-09 17:42:15</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>2789058adb80549096b0fb37bf9619a5</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Update TASK Work Notes</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_write_back_action_item_2789058adb80549096b0fb37bf9619a5</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-04-09 17:46:24</sys_updated_on><table>sc_task</table><template>work_notes={{Update Work Notes}}^EQ</template><type>update</type><use_current_record_as_condition>true</use_current_record_as_condition></sys_sg_write_back_action_item></record_update>]]></payload>
+        <payload_hash>-1108469862</payload_hash>
+        <record_name>Update TASK Work Notes</record_name>
+        <reverted_from/>
+        <source>972d1f61db88d09096b0fb37bf96190c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-09 17:46:24</sys_created_on>
+        <sys_id>e24bc90edb80549096b0fb37bf9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171600cd09c0000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-09 17:46:24</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>aa4bc90e06805490d860ad681ba4ebfd</update_guid>
+        <update_guid_history>aa4bc90e06805490d860ad681ba4ebfd:-1108469862,2dfa410e0380549095a6deef8f8c9fe6:-1334207556,c5ea410e52805490c55ac6a7eabf9e74:-567621508,755a458a1e8054905e2124e981f71111:125036015</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-09 18:23:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>74fdd28e3c624cc287624d5378918dc4</sys_id>
+        <sys_metadata>2789058adb80549096b0fb37bf9619a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update TASK Work Notes</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_2789058adb80549096b0fb37bf9619a5</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_2789058adb80549096b0fb37bf9619a5">e24bc90edb80549096b0fb37bf9619fe</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-09 18:23:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

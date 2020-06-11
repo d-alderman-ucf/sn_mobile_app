@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description>Set the State field on a private task to Closed Complete. </description>
+        <execution_script/>
+        <name>Private Task - Set State to Complete</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-23 12:55:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c77e40a2dbdc501073b6f1fcbf96191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Private Task - Set State to Complete</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_c77e40a2dbdc501073b6f1fcbf96191c</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-23 12:55:32</sys_updated_on>
+        <table>vtb_task</table>
+        <template>state=3^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

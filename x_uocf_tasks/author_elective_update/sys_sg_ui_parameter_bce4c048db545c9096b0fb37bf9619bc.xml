@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Log Time Worked - 30 Minutes">630340c4db545c9096b0fb37bf9619c1</button>
+        <button_parent_table>task_time_worked</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>auto</input_source>
+        <input_style/>
+        <input_type>source_field</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Add Task ID</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>task.parent.number</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-15 17:50:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>bce4c048db545c9096b0fb37bf9619bc</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Add Task ID</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_bce4c048db545c9096b0fb37bf9619bc</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-15 19:35:32</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>53d8c4344ff25ec0152a99701310c7f2</instance_id>
+        <instance_name>ucfsandbox</instance_name>
+        <name>sys_sg_ui_parameter_bce4c048db545c9096b0fb37bf9619bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Log Time Worked - 30 Minutes">630340c4db545c9096b0fb37bf9619c1</button><button_parent_table>task_time_worked</button_parent_table><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name/><input_source>auto</input_source><input_style/><input_type>source_field</input_type><mandatory>false</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Add Task ID</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field>task.parent.number</source_field><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-04-15 17:50:02</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>bce4c048db545c9096b0fb37bf9619bc</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Add Task ID</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_ui_parameter_bce4c048db545c9096b0fb37bf9619bc</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-04-15 19:35:32</sys_updated_on><table_name/></sys_sg_ui_parameter></record_update>]]></payload>
+        <payload_hash>-1497874963</payload_hash>
+        <record_name>Add Task ID</record_name>
+        <reverted_from/>
+        <source>972d1f61db88d09096b0fb37bf96190c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-15 19:35:32</sys_created_on>
+        <sys_id>33cd1c80dbd45c9096b0fb37bf961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1717f56e3020000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-15 19:35:32</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>f7cd1c808fd45c90fb0501504bcee244</update_guid>
+        <update_guid_history>f7cd1c808fd45c90fb0501504bcee244:-1497874963,d32a1040c9d45c900cf013c05b7bf267:1255336142,1638dc4ce7945c90a24a1349be748113:-914421551,ac07940c6e945c908ad19cb735e9059e:-543943864,7f76d8c82f945c90bfbfd07f5958069c:-271145451,d6a58c08fd545c90123a37641ecbc191:-914421551</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-15 19:57:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>3c65ce345ab84d66b09431d8191f8b91</sys_id>
+        <sys_metadata>bce4c048db545c9096b0fb37bf9619bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Task ID</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_bce4c048db545c9096b0fb37bf9619bc</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_bce4c048db545c9096b0fb37bf9619bc">33cd1c80dbd45c9096b0fb37bf961945</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-15 19:57:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

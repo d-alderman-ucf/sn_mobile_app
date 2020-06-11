@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="My Active Change Requests">f3fddc71db0d109073b6f1fcbf961998</data_item>
+        <interleaved_field/>
+        <name>My Created Change Requests Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-28 18:36:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6cbc6d71db81509073b6f1fcbf9619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Created Change Requests Item Stream</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_item_stream_6cbc6d71db81509073b6f1fcbf9619f1</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-28 18:36:39</sys_updated_on>
+        <table>change_request</table>
+    </sys_sg_item_stream>
+</record_update>

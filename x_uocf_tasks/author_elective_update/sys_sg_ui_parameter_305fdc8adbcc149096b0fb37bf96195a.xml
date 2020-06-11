@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Set State to Pending">946e588adbcc149096b0fb37bf96194f</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant>-5</constant>
+        <default_value>Pending</default_value>
+        <default_value_type>none</default_value_type>
+        <field_name>state</field_name>
+        <input_source>auto</input_source>
+        <input_style/>
+        <input_type>constant</input_type>
+        <mandatory>true</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Change State to Pending</name>
+        <order>10</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-09 14:36:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>305fdc8adbcc149096b0fb37bf96195a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Change State to Pending</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_305fdc8adbcc149096b0fb37bf96195a</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-14 14:32:38</sys_updated_on>
+        <table_name>sc_task</table_name>
+    </sys_sg_ui_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>53d8c4344ff25ec0152a99701310c7f2</instance_id>
+        <instance_name>ucfsandbox</instance_name>
+        <name>sys_sg_ui_parameter_305fdc8adbcc149096b0fb37bf96195a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Set State to Pending">946e588adbcc149096b0fb37bf96194f</button><button_parent_table/><carried>false</carried><constant>-5</constant><default_value>Pending</default_value><default_value_type>none</default_value_type><field_name>state</field_name><input_source>auto</input_source><input_style/><input_type>constant</input_type><mandatory>true</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Change State to Pending</name><order>10</order><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-04-09 14:36:05</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>305fdc8adbcc149096b0fb37bf96195a</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Change State to Pending</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_ui_parameter_305fdc8adbcc149096b0fb37bf96195a</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-04-14 14:32:38</sys_updated_on><table_name>sc_task</table_name></sys_sg_ui_parameter></record_update>]]></payload>
+        <payload_hash>2131865124</payload_hash>
+        <record_name>Change State to Pending</record_name>
+        <reverted_from/>
+        <source>972d1f61db88d09096b0fb37bf96190c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-14 14:32:38</sys_created_on>
+        <sys_id>38ee0eebdbcc10d073b6f1fcbf961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171791b36eb0000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-14 14:32:38</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>fcee0eeb63cc10d0c24a5e0b47d7e78f</update_guid>
+        <update_guid_history>fcee0eeb63cc10d0c24a5e0b47d7e78f:2131865124,e7ddc6ab0dcc10d0f66ced22fbea1caa:-1016088960,59dd822b60cc10d0427713e98c2f2f2f:604199474,3755adda864494900bd56ff45edffdf4:-1701323824,88b07586d84454901e1a973d59691607:-1136579561,0330608e87cc14909145db34248f5b30:523033979,b6bf504e7dcc14900c97bb73a61afa37:-725004975</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-14 14:39:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>34811b85e3aa4d6c9535541e84a19f90</sys_id>
+        <sys_metadata>305fdc8adbcc149096b0fb37bf96195a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change State to Pending</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_305fdc8adbcc149096b0fb37bf96195a</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_305fdc8adbcc149096b0fb37bf96195a">38ee0eebdbcc10d073b6f1fcbf961990</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-14 14:39:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

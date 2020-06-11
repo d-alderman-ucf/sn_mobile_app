@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description>Change the Assignment Group for the current Incident record.</description>
+        <execution_script/>
+        <name>Incident  - Change Assignment Group</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-26 14:08:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7bfbde01db81105096b0fb37bf9619bd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Incident  - Change Assignment Group</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_7bfbde01db81105096b0fb37bf9619bd</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-26 19:00:37</sys_updated_on>
+        <table>incident</table>
+        <template>assignment_group={{Assignment Group}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

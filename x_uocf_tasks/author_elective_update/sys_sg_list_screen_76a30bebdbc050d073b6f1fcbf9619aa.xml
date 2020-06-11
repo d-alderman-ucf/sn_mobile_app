@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Show the Time Worked for the curent Task.</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">3aa30bebdbc050d073b6f1fcbf9619a4</icon>
+        <item_view/>
+        <name>Time Worked</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <style>regular</style>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-14 18:23:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>76a30bebdbc050d073b6f1fcbf9619aa</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Time Worked</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_list_screen_76a30bebdbc050d073b6f1fcbf9619aa</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-14 18:49:44</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>53d8c4344ff25ec0152a99701310c7f2</instance_id>
+        <instance_name>ucfsandbox</instance_name>
+        <name>sys_sg_list_screen_76a30bebdbc050d073b6f1fcbf9619aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><description>Show the Time Worked for the curent Task.</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Address-Book">3aa30bebdbc050d073b6f1fcbf9619a4</icon><item_view/><name>Time Worked</name><order/><parent/><parent_table/><roles_override/><style>regular</style><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-04-14 18:23:15</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>76a30bebdbc050d073b6f1fcbf9619aa</sys_id><sys_mod_count>12</sys_mod_count><sys_name>Time Worked</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_list_screen_76a30bebdbc050d073b6f1fcbf9619aa</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-04-14 18:49:44</sys_updated_on></sys_sg_list_screen></record_update>]]></payload>
+        <payload_hash>-203591249</payload_hash>
+        <record_name>Time Worked</record_name>
+        <reverted_from/>
+        <source>972d1f61db88d09096b0fb37bf96190c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-14 18:49:44</sys_created_on>
+        <sys_id>47b90b27db0450d073b6f1fcbf9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1717a0698080000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-14 18:49:44</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>0fb90b27100450d0ec268f8e253534f8</update_guid>
+        <update_guid_history>0fb90b27100450d0ec268f8e253534f8:-203591249,7ea38f2f2ec050d03b39876af9a6e131:-1337780795</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-16 13:09:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>12d99684a79c4ecc83df553b18a79a90</sys_id>
+        <sys_metadata>76a30bebdbc050d073b6f1fcbf9619aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Worked</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_76a30bebdbc050d073b6f1fcbf9619aa</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_76a30bebdbc050d073b6f1fcbf9619aa">47b90b27db0450d073b6f1fcbf9619f9</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-16 13:09:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

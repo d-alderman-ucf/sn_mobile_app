@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Set Task ID</name>
+        <parent>cbf657efdb0450d073b6f1fcbf961906</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-14 19:56:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e9f89b27db4450d073b6f1fcbf9619ef</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Set Task ID</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_e9f89b27db4450d073b6f1fcbf9619ef</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-14 19:59:37</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>53d8c4344ff25ec0152a99701310c7f2</instance_id>
+        <instance_name>ucfsandbox</instance_name>
+        <name>sys_sg_item_parameter_e9f89b27db4450d073b6f1fcbf9619ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>Set Task ID</name><parent>cbf657efdb0450d073b6f1fcbf961906</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-04-14 19:56:28</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>e9f89b27db4450d073b6f1fcbf9619ef</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Set Task ID</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_item_parameter_e9f89b27db4450d073b6f1fcbf9619ef</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-04-14 19:59:37</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>-1606705991</payload_hash>
+        <record_name>Set Task ID</record_name>
+        <reverted_from/>
+        <source>972d1f61db88d09096b0fb37bf96190c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-14 19:59:37</sys_created_on>
+        <sys_id>7eb9dfa7db4450d073b6f1fcbf961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1717a4693c20000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-14 19:59:37</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>36b9dfa72a4450d0b1801b70fb4e4660</update_guid>
+        <update_guid_history>36b9dfa72a4450d0b1801b70fb4e4660:-1606705991,a40997a3494450d09a9c8578d3078211:397555193</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-15 20:09:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>2dd667f7d46344e08e6f593007bd8d41</sys_id>
+        <sys_metadata>e9f89b27db4450d073b6f1fcbf9619ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Task ID</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_e9f89b27db4450d073b6f1fcbf9619ef</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_e9f89b27db4450d073b6f1fcbf9619ef">7eb9dfa7db4450d073b6f1fcbf961960</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-15 20:09:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

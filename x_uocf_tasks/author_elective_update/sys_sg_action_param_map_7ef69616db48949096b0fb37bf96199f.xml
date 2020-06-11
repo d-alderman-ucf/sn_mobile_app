@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Create New Task">ed9fb99adbc4949096b0fb37bf9619d5</button>
+        <item_parameter display_value="Set Assignment Group">1b2ef1d6dbc4949096b0fb37bf961925</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-10 17:55:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7ef69616db48949096b0fb37bf96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1b2ef1d6dbc4949096b0fb37bf961925</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_7ef69616db48949096b0fb37bf96199f</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-10 17:55:45</sys_updated_on>
+        <ui_parameter display_value=" Set the Assignment Group">eaf5d6d2db48949096b0fb37bf961969</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>53d8c4344ff25ec0152a99701310c7f2</instance_id>
+        <instance_name>ucfsandbox</instance_name>
+        <name>sys_sg_action_param_map_7ef69616db48949096b0fb37bf96199f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Create New Task">ed9fb99adbc4949096b0fb37bf9619d5</button><item_parameter display_value="Set Assignment Group">1b2ef1d6dbc4949096b0fb37bf961925</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-04-10 17:55:45</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>7ef69616db48949096b0fb37bf96199f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1b2ef1d6dbc4949096b0fb37bf961925</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_action_param_map_7ef69616db48949096b0fb37bf96199f</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-04-10 17:55:45</sys_updated_on><ui_parameter display_value=" Set the Assignment Group">eaf5d6d2db48949096b0fb37bf961969</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>-663194008</payload_hash>
+        <record_name>1b2ef1d6dbc4949096b0fb37bf961925</record_name>
+        <reverted_from/>
+        <source>972d1f61db88d09096b0fb37bf96190c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-10 17:55:45</sys_created_on>
+        <sys_id>dd079616db48949096b0fb37bf9619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171653bba380000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-10 17:55:45</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>d5079616dd489490bd5924f51a65eba5</update_guid>
+        <update_guid_history>d5079616dd489490bd5924f51a65eba5:-663194008</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-10 18:55:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>0d50ab896f2c400d81fcb2f50ba72249</sys_id>
+        <sys_metadata>7ef69616db48949096b0fb37bf96199f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1b2ef1d6dbc4949096b0fb37bf961925</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_7ef69616db48949096b0fb37bf96199f</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_7ef69616db48949096b0fb37bf96199f">dd079616db48949096b0fb37bf9619a5</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-10 18:55:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

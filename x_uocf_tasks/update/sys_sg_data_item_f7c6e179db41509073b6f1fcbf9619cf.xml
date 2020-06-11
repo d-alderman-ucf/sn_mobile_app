@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>A list of active Change Requests created by or requested by the current user. </description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>My Created Change Requests</name>
+        <query_condition table="change_request">active=true^opened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORrequested_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORDERBYDESCsys_created_on<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="opened_by" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="requested_by" goto="false" newquery="false" operator="DYNAMIC" or="true" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-28 18:10:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f7c6e179db41509073b6f1fcbf9619cf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Created Change Requests</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_data_item_f7c6e179db41509073b6f1fcbf9619cf</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-28 18:12:05</sys_updated_on>
+        <table>change_request</table>
+    </sys_sg_data_item>
+</record_update>

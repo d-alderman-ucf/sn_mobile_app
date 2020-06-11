@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Completed Approvals Icon">e2ee72e1db7c101096b0fb37bf9619a9</icon>
+        <item_view display_value="Completed Approvals Header Item View">e6ee72e1db7c101096b0fb37bf9619ab</item_view>
+        <name>Completed Approvals</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-15 19:41:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>aaee72e1db7c101096b0fb37bf9619ad</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Completed Approvals</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_form_screen_aaee72e1db7c101096b0fb37bf9619ad</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-15 20:19:47</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_form_screen>
+</record_update>

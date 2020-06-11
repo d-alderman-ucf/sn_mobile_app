@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Log Time Worked">e303541cdbd49c9096b0fb37bf96198b</button>
+        <button_parent_table>sc_task</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>task</field_name>
+        <input_source>auto</input_source>
+        <input_style/>
+        <input_type>source_field</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Task ID</name>
+        <order>1</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>sys_id</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-16 17:33:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>361b41dcdbd89c9096b0fb37bf9619cc</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Task ID</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_361b41dcdbd89c9096b0fb37bf9619cc</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-16 19:26:44</sys_updated_on>
+        <table_name>task_time_worked</table_name>
+    </sys_sg_ui_parameter>
+</record_update>
