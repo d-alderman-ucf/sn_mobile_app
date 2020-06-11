@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Approval State</name>
+        <parent>dae2a4b8db2c9c1096b0fb37bf96191e</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-18 12:58:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3c6fb4e2db74505073b6f1fcbf9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval State</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_3c6fb4e2db74505073b6f1fcbf9619c5</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-18 12:58:59</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>53d8c4344ff25ec0152a99701310c7f2</instance_id>
+        <instance_name>ucfsandbox</instance_name>
+        <name>sys_sg_item_parameter_3c6fb4e2db74505073b6f1fcbf9619c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>Approval State</name><parent>dae2a4b8db2c9c1096b0fb37bf96191e</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-05-18 12:58:59</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>3c6fb4e2db74505073b6f1fcbf9619c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Approval State</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_item_parameter_3c6fb4e2db74505073b6f1fcbf9619c5</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-05-18 12:58:59</sys_updated_on><type>string</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>1564886594</payload_hash>
+        <record_name>Approval State</record_name>
+        <reverted_from/>
+        <source>972d1f61db88d09096b0fb37bf96190c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-18 12:58:59</sys_created_on>
+        <sys_id>a88ff8a2db74505073b6f1fcbf9619f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17227ddb0f20000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-18 12:58:59</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>a08ff8a2787450508d3d19c3f7a2a4f6</update_guid>
+        <update_guid_history>a08ff8a2787450508d3d19c3f7a2a4f6:1564886594</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-20 17:27:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>4af32ca7ad6b48e596b79a13a3bebf09</sys_id>
+        <sys_metadata>3c6fb4e2db74505073b6f1fcbf9619c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval State</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_3c6fb4e2db74505073b6f1fcbf9619c5</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_3c6fb4e2db74505073b6f1fcbf9619c5">a88ff8a2db74505073b6f1fcbf9619f6</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-20 17:27:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

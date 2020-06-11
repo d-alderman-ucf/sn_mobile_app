@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description>A list of my open tasks</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>My Open Tasks</name>
+        <query_condition table="sc_task">active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^stateIN1,2,-5<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item display_value="1,2,-5" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="1,2,-5"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-08 15:07:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>156ddb61db88d09096b0fb37bf96193c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My Open Tasks</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_data_item_156ddb61db88d09096b0fb37bf96193c</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:19:11</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_data_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>53d8c4344ff25ec0152a99701310c7f2</instance_id>
+        <instance_name>ucfsandbox</instance_name>
+        <name>sys_sg_data_item_156ddb61db88d09096b0fb37bf96193c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description>A list of my open tasks</description><group_by/><instance_relative_url_qc/><name>My Open Tasks</name><query_condition table="sc_task">active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^stateIN1,2,-5<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/><item display_value="1,2,-5" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="1,2,-5"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-04-08 15:07:46</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>156ddb61db88d09096b0fb37bf96193c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>My Open Tasks</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_data_item_156ddb61db88d09096b0fb37bf96193c</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-04-08 15:19:11</sys_updated_on><table>sc_task</table></sys_sg_data_item></record_update>]]></payload>
+        <payload_hash>-1827287729</payload_hash>
+        <record_name>My Open Tasks</record_name>
+        <reverted_from/>
+        <source>972d1f61db88d09096b0fb37bf96190c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-08 15:19:11</sys_created_on>
+        <sys_id>1c002365db88d09096b0fb37bf9619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1715a5fa9e20000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:19:11</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>d00023656d88d09053b21d1015d89ace</update_guid>
+        <update_guid_history>d00023656d88d09053b21d1015d89ace:-1827287729,5a5e17e1e988d0906afba7d4fe731024:-1351123087,a56d53a1d188d09072823fe608f6749e:-1277812403</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-08 15:51:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>4c123c85e9734f10ae5d0b6cc3946341</sys_id>
+        <sys_metadata>156ddb61db88d09096b0fb37bf96193c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Open Tasks</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_156ddb61db88d09096b0fb37bf96193c</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_156ddb61db88d09096b0fb37bf96193c">1c002365db88d09096b0fb37bf9619ce</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:51:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

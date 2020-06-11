@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>A report displayed on the mobile app.</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="An Example Report Icon">b44e9e2ddbb8101096b0fb37bf9619fe</icon>
+        <name>An Example Report</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <report display_value="Accessibility">7bc608cd4fc7b740402497dd0210c7fa</report>
+        <roles_override/>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-15 17:21:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>894e5e6ddbb8101096b0fb37bf961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>An Example Report</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_894e5e6ddbb8101096b0fb37bf961941</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-15 17:21:34</sys_updated_on>
+        <type>report</type>
+        <use_last_point>true</use_last_point>
+        <widget/>
+    </sys_sg_chart_screen>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>A list of the requested items assigned to your team.</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>My Team's Requested Items</name>
+        <query_condition table="sc_req_item">active=true^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744^stateIN-5,1,2,5^ORDERBYDESCsys_created_by<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assignment_group" goto="false" newquery="false" operator="DYNAMIC" or="false" value="d6435e965f510100a9ad2572f2b47744"/>
+            <item display_value="-5,1,2,5" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="-5,1,2,5"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_created_by"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-08 16:50:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>05f4b7e9dbc8d09096b0fb37bf961922</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My Team's Requested Items</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_data_item_05f4b7e9dbc8d09096b0fb37bf961922</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-08 16:51:36</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_data_item>
+</record_update>

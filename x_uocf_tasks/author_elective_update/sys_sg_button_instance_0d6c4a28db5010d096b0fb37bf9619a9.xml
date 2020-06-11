@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Set State to Skipped">7ec8626bdb4050d073b6f1fcbf9619c8</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Change State to Closed Skipped</label>
+        <location>top</location>
+        <name>Change State to Closed Skipped</name>
+        <order>20</order>
+        <parent>ba5b4e28db5010d096b0fb37bf96192e</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-17 16:55:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0d6c4a28db5010d096b0fb37bf9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change State to Closed Skipped</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_0d6c4a28db5010d096b0fb37bf9619a9</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-17 16:55:39</sys_updated_on>
+        <table>vtb_task</table>
+    </sys_sg_button_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>53d8c4344ff25ec0152a99701310c7f2</instance_id>
+        <instance_name>ucfsandbox</instance_name>
+        <name>sys_sg_button_instance_0d6c4a28db5010d096b0fb37bf9619a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Set State to Skipped">7ec8626bdb4050d073b6f1fcbf9619c8</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Change State to Closed Skipped</label><location>top</location><name>Change State to Closed Skipped</name><order>20</order><parent>ba5b4e28db5010d096b0fb37bf96192e</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-04-17 16:55:39</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>0d6c4a28db5010d096b0fb37bf9619a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Change State to Closed Skipped</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_button_instance_0d6c4a28db5010d096b0fb37bf9619a9</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-04-17 16:55:39</sys_updated_on><table>vtb_task</table></sys_sg_button_instance></record_update>]]></payload>
+        <payload_hash>1426535602</payload_hash>
+        <record_name>Change State to Closed Skipped</record_name>
+        <reverted_from/>
+        <source>972d1f61db88d09096b0fb37bf96190c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-17 16:55:39</sys_created_on>
+        <sys_id>8d6c4a28db5010d096b0fb37bf9619ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171891138150000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-17 16:55:39</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>856c4a28225010d04de034d803c115ab</update_guid>
+        <update_guid_history>856c4a28225010d04de034d803c115ab:1426535602</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-17 17:03:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>71358d907e724d22a4b7dafcf6cb3524</sys_id>
+        <sys_metadata>0d6c4a28db5010d096b0fb37bf9619a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change State to Closed Skipped</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_0d6c4a28db5010d096b0fb37bf9619a9</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_0d6c4a28db5010d096b0fb37bf9619a9">8d6c4a28db5010d096b0fb37bf9619ab</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-17 17:03:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="incident">state=6^EQ<item display_value="Resolved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="6"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>state</field>
+        <item_vew/>
+        <item_view_element/>
+        <name>Incident State Resolved</name>
+        <style>{"background_color":"#B5DDE5","font_color":"#1A424B"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-20 18:56:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>da44a4d7dbbcd41096b0fb37bf961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident State Resolved</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_ui_style_da44a4d7dbbcd41096b0fb37bf961976</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-20 18:56:12</sys_updated_on>
+        <table>incident</table>
+        <use_item_view_elements>false</use_item_view_elements>
+    </sys_sg_ui_style>
+</record_update>

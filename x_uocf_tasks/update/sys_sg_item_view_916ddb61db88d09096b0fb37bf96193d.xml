@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>state-11566,number-3907,short_description-22124,opened_by.avatar-38286,opened_by-3093,priority-9764</dependency_fields>
+        <item_view_json>{"Alignment":"Stretch","Children":[{"Alignment":"Stretch","Children":[{"Alignment":"Left","Children":[{"studio_template_field_id":"E1","TextColor":"#293e40","Width":100,"Height":21,"Font":{"Weight":"semibold","Size":13},"Text":"","BackgroundColor":"#f1f1f1","CornerRadius":2,"CellId":"state","TextAlignment":"Center","MaxLines":1,"Type":"Text","Id":11566}],"Orientation":"Vertical","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup","Id":42845},{"Alignment":"Right","Children":[{"studio_template_field_id":"E2","TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"Text":"","CellId":"number","TextAlignment":"Right","MaxLines":1,"Type":"Text","Id":3907}],"Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup","Id":42846}],"Orientation":"Horizontal","Distribution":"Equal","Type":"ViewGroup","Id":12259},{"studio_template_field_id":"E3","TextColor":"#293e40","Font":{"Weight":"regular","Size":18},"Text":"","CellId":"short_description","TextAlignment":"Left","MaxLines":2,"Margin":{"Top":9},"Type":"Text","Id":22124},{"Alignment":"Left","Children":[{"Alignment":"Center","Children":[{"studio_template_field_id":"E4","studio_template_is_label":true,"TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"Text":"${opened_by}","TextAlignment":"Left","MaxLines":1,"Margin":{"Right":8},"Type":"Text","Id":3091},{"studio_template_field_id":"E5","Width":22,"Height":22,"CornerRadius":11,"CellId":"opened_by.avatar","Scaling":"Fill","Margin":{"Right":6},"Type":"Image","Id":38286},{"studio_template_field_id":"E4","TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"Text":"","CellId":"opened_by","TextAlignment":"Left","MaxLines":1,"Type":"Text","Id":3093}],"Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup","Id":34348},{"Alignment":"Center","Children":[{"studio_template_field_id":"E6","studio_template_is_label":true,"TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"Text":"${priority}","TextAlignment":"Left","MaxLines":1,"Margin":{"Right":8},"Type":"Text","Id":9763},{"studio_template_field_id":"E6","TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"Text":"","CellId":"priority","TextAlignment":"Left","MaxLines":1,"Type":"Text","Id":9764}],"Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup","Id":34349}],"Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup","Id":12261}],"Orientation":"Vertical","Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup","Id":28090}</item_view_json>
+        <name>Catalog Task List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-08 15:07:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>916ddb61db88d09096b0fb37bf96193d</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Catalog Task List Screen Item View</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_item_view_916ddb61db88d09096b0fb37bf96193d</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:50:02</sys_updated_on>
+        <table>sc_task</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>

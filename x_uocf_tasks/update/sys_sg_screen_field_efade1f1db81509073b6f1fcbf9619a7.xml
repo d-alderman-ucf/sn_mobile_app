@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>test_plan</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>140</order>
+        <record_id_field/>
+        <screen display_value="Details">68bc6d71db81509073b6f1fcbf9619fb</screen>
+        <screen_data_item_table>change_request</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-28 18:40:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>efade1f1db81509073b6f1fcbf9619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_plan</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_screen_field_efade1f1db81509073b6f1fcbf9619a7</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-28 18:40:58</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

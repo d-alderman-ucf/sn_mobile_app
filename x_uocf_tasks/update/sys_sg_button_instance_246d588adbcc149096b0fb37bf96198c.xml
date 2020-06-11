@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Update TASK Assignment Group">8d3614c2dbcc149096b0fb37bf96192c</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Update Assignment Group</label>
+        <location>top</location>
+        <name>Update Assignment Group</name>
+        <order>10</order>
+        <parent>bb352ba9db88d09096b0fb37bf961916</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-09 14:25:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>246d588adbcc149096b0fb37bf96198c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Update Assignment Group</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_246d588adbcc149096b0fb37bf96198c</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-09 18:53:31</sys_updated_on>
+        <table>sc_task</table>
+    </sys_sg_button_instance>
+</record_update>
