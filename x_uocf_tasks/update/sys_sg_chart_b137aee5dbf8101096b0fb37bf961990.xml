@@ -2,7 +2,7 @@
     <sys_sg_chart action="INSERT_OR_UPDATE">
         <jump_to_screen/>
         <name>Report Preview</name>
-        <report display_value="Accessibility">7bc608cd4fc7b740402497dd0210c7fa</report>
+        <report display_value="Zoom">7bc608cd4fc7b740402497dd0210c7fa</report>
         <sys_class_name>sys_sg_chart</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
         <sys_created_on>2020-05-15 17:58:39</sys_created_on>

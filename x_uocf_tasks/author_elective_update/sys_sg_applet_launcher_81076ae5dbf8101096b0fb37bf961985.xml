@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Sample Report</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-15 17:57:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>81076ae5dbf8101096b0fb37bf961985</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>A Sample Report</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_81076ae5dbf8101096b0fb37bf961985</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-15 18:00:33</sys_updated_on>
+        <title>A Sample Report</title>
+    </sys_sg_applet_launcher>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_applet_launcher_81076ae5dbf8101096b0fb37bf961985</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Sample Report</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-15 17:57:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>81076ae5dbf8101096b0fb37bf961985</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>A Sample Report</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_81076ae5dbf8101096b0fb37bf961985</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-15 18:00:33</sys_updated_on>
+        <title>A Sample Report</title>
+    </sys_sg_applet_launcher>
+</record_update>]]></payload>
+        <payload_hash>591696674</payload_hash>
+        <record_name>A Sample Report</record_name>
+        <reverted_from/>
+        <source>71c69462dbb75c10cbfd04c2ca9619ab</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-10-14 13:09:30</sys_created_on>
+        <sys_id>afc61862dbb75c10cbfd04c2ca9619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175273adee80000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-10-14 13:09:30</sys_updated_on>
+        <type>Applet Launcher</type>
+        <update_guid>6fc618624cb75c10651d714bf95786a8</update_guid>
+        <update_guid_history>6fc618624cb75c10651d714bf95786a8:591696674</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-10-14 13:21:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>06cd52b9962343f49bd07e2a735c4d90</sys_id>
+        <sys_metadata>81076ae5dbf8101096b0fb37bf961985</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>A Sample Report</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_81076ae5dbf8101096b0fb37bf961985</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_81076ae5dbf8101096b0fb37bf961985">afc61862dbb75c10cbfd04c2ca9619a8</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-10-14 13:21:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

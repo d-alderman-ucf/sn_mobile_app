@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
         <active>true</active>
         <applet_launcher display_value="My Approvals">da004fa1db7c101096b0fb37bf961944</applet_launcher>
-        <icon display_value="Star Icon">16bbe5c353013300f214ddeeff7b12dd</icon>
+        <icon display_value="">16bbe5c353013300f214ddeeff7b12dd</icon>
         <label>My Approvals</label>
         <roles/>
         <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>

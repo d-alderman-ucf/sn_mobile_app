@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
         <active>true</active>
         <applet_launcher display_value="Change Requests">2d14e4b9db0d109073b6f1fcbf9619bd</applet_launcher>
-        <icon display_value="My Tasks Icon">957a4aa4dbab8410f7c19c76db961940</icon>
+        <icon display_value="">957a4aa4dbab8410f7c19c76db961940</icon>
         <label>Change Requests</label>
         <roles/>
         <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
