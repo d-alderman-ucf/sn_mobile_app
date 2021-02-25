@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
         <active>true</active>
         <applet_launcher display_value="Tasks">d16ddb61db88d09096b0fb37bf96193a</applet_launcher>
-        <icon display_value="">957a4aa4dbab8410f7c19c76db961940</icon>
+        <icon display_value="Services icon">d388b85b1c003300964f3fc617b23a23</icon>
         <label>Task</label>
         <roles/>
         <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
@@ -10,7 +10,7 @@
         <sys_created_on>2020-05-15 18:15:38</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>252bee2ddbf8101096b0fb37bf961928</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Task</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
@@ -18,6 +18,6 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_applet_launcher_tab_252bee2ddbf8101096b0fb37bf961928</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2020-05-15 18:15:38</sys_updated_on>
+        <sys_updated_on>2020-11-19 18:52:02</sys_updated_on>
     </sys_sg_applet_launcher_tab>
 </record_update>

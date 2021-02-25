@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>sysapproval.number</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>10</order>
+        <record_id_field/>
+        <screen display_value="Details">4269f924db1010d096b0fb37bf9619ca</screen>
+        <screen_data_item_table>sysapproval_approver</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-17 15:32:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8a69f924db1010d096b0fb37bf9619cc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sysapproval.number</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_screen_field_8a69f924db1010d096b0fb37bf9619cc</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 20:45:32</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_screen_field_8a69f924db1010d096b0fb37bf9619cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>sysapproval.number</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>10</order><record_id_field/><screen display_value="Details">4269f924db1010d096b0fb37bf9619ca</screen><screen_data_item_table>sysapproval_approver</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-04-17 15:32:42</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>8a69f924db1010d096b0fb37bf9619cc</sys_id><sys_mod_count>2</sys_mod_count><sys_name>sysapproval.number</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_screen_field_8a69f924db1010d096b0fb37bf9619cc</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-12-07 20:45:32</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>-1225014726</payload_hash>
+        <record_name>sysapproval.number</record_name>
+        <reverted_from/>
+        <source>2a075062dbb75c10cbfd04c2ca961926</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 20:45:32</sys_created_on>
+        <sys_id>8a05cc44db41a010cbfd04c2ca9619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1763ef3c8ff0000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 20:45:32</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>0205cc448c41a0104e4c4a8b9dc72bde</update_guid>
+        <update_guid_history>0205cc448c41a0104e4c4a8b9dc72bde:-1225014726,5af34804bd41a010490b51168e990762:-2091536551,d8e610a2c9b75c10395ffa1162b31afa:477256350</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-09 13:50:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>833499a9121c48b0afe5dd5ecc1377a4</sys_id>
+        <sys_metadata>8a69f924db1010d096b0fb37bf9619cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval.number</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_8a69f924db1010d096b0fb37bf9619cc</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_8a69f924db1010d096b0fb37bf9619cc">8a05cc44db41a010cbfd04c2ca9619de</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-09 13:50:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

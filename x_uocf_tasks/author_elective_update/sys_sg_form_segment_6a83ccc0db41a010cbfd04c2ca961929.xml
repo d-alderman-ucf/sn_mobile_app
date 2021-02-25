@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="DELETE">
+        <embedded_screen display_value="Related List">6e83ccc0db41a010cbfd04c2ca961926</embedded_screen>
+        <form display_value="RITM Record">d5f08800db41a010cbfd04c2ca9619a0</form>
+        <order>30</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 20:39:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6a83ccc0db41a010cbfd04c2ca961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_form_segment_6a83ccc0db41a010cbfd04c2ca961929</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 20:39:00</sys_updated_on>
+    </sys_sg_form_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_form_segment_6a83ccc0db41a010cbfd04c2ca961929</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment"><sys_sg_form_segment action="INSERT_OR_UPDATE"><embedded_screen display_value="Related List">6e83ccc0db41a010cbfd04c2ca961926</embedded_screen><form display_value="RITM Record">d5f08800db41a010cbfd04c2ca9619a0</form><order>30</order><sys_class_name>sys_sg_form_segment</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-12-07 20:39:00</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>6a83ccc0db41a010cbfd04c2ca961929</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_form_segment_6a83ccc0db41a010cbfd04c2ca961929</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-12-07 20:39:00</sys_updated_on></sys_sg_form_segment></record_update>]]></payload>
+        <payload_hash>-976059829</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2a075062dbb75c10cbfd04c2ca961926</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 20:39:00</sys_created_on>
+        <sys_id>2e83ccc0db41a010cbfd04c2ca96192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1763eedce430000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 20:39:00</sys_updated_on>
+        <type>Form Screen Segment</type>
+        <update_guid>2683ccc06f41a010c4ce11787e84b72b</update_guid>
+        <update_guid_history>2683ccc06f41a010c4ce11787e84b72b:-976059829</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 21:39:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_form_segment">sys_sg_form_segment</sys_db_object>
+        <sys_id>32a4c139c2a3493eb5d0ee8e60c48509</sys_id>
+        <sys_metadata>6a83ccc0db41a010cbfd04c2ca961929</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_form_segment_6a83ccc0db41a010cbfd04c2ca961929</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_segment_6a83ccc0db41a010cbfd04c2ca961929">2e83ccc0db41a010cbfd04c2ca96192b</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 21:39:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

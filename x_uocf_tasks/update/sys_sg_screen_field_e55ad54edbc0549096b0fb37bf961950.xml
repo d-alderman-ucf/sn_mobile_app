@@ -6,7 +6,7 @@
         <description_text_type/>
         <field_name/>
         <hidden>false</hidden>
-        <order>60</order>
+        <order>70</order>
         <record_id_field/>
         <screen display_value="Details">6fe8d9cadbc0549096b0fb37bf9619cd</screen>
         <screen_data_item_table>task_sla</screen_data_item_table>
@@ -15,7 +15,7 @@
         <sys_created_on>2020-04-09 18:52:09</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>e55ad54edbc0549096b0fb37bf961950</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>business_time_left</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
@@ -23,7 +23,7 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_screen_field_e55ad54edbc0549096b0fb37bf961950</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2020-04-09 18:52:09</sys_updated_on>
+        <sys_updated_on>2021-02-17 20:12:31</sys_updated_on>
         <type>auto</type>
         <value_only>false</value_only>
     </sys_sg_screen_field>

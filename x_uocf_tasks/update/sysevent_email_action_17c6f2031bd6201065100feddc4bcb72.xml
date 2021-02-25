@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="SLA" name="SLA">be9d02137f232200ee2e108c3ffa915b</category>
+        <collection>task_sla</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description>A push notification to alert the user that a ticket is close to breaching.</description>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <event_name>sla.ritm.percent.warning</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>event</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html/>
+        <message_list>92f5facf1b96201065100feddc4bcbcf</message_list>
+        <message_text/>
+        <name>Mobile - SLA Breach Warning</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>true</push_message_only>
+        <recipient_fields>task.assigned_to</recipient_fields>
+        <recipient_groups/>
+        <recipient_users>a570e5964f3a4600b7fe48f18110c7af</recipient_users>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject/>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-02-17 21:01:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>17c6f2031bd6201065100feddc4bcb72</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Mobile - SLA Breach Warning</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sysevent_email_action_17c6f2031bd6201065100feddc4bcb72</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-02-19 15:22:07</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

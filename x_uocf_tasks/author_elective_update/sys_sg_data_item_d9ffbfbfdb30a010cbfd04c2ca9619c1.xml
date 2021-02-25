@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description>A link to the RITM record from an Approval form view. </description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Navigate to RITM</name>
+        <query_condition table="sc_req_item">sys_id={{RITM SYSID}}<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="{{RITM SYSID}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 20:23:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d9ffbfbfdb30a010cbfd04c2ca9619c1</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Navigate to RITM</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_data_item_d9ffbfbfdb30a010cbfd04c2ca9619c1</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 21:17:14</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_data_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_data_item_d9ffbfbfdb30a010cbfd04c2ca9619c1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description>A link to the RITM record from an Approval form view. </description><group_by/><instance_relative_url_qc/><name>Navigate to RITM</name><query_condition table="sc_req_item">sys_id={{RITM SYSID}}<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="{{RITM SYSID}}"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-12-07 20:23:22</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>d9ffbfbfdb30a010cbfd04c2ca9619c1</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Navigate to RITM</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_data_item_d9ffbfbfdb30a010cbfd04c2ca9619c1</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-12-07 21:17:14</sys_updated_on><table>sc_req_item</table></sys_sg_data_item></record_update>]]></payload>
+        <payload_hash>-1677208502</payload_hash>
+        <record_name>Navigate to RITM</record_name>
+        <reverted_from/>
+        <source>2a075062dbb75c10cbfd04c2ca961926</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 21:17:14</sys_created_on>
+        <sys_id>e24cc0ccdb41a010cbfd04c2ca961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1763f10cdd60000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 21:17:14</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>6a4cc0cca941a010b2d05bef2d20ee7f</update_guid>
+        <update_guid_history>6a4cc0cca941a010b2d05bef2d20ee7f:-1677208502,e84cc0ccc041a010510976420a1d4598:1817639850,5c8b084cda41a0104dbff8537e970c9b:28850316,e1d9040c9c41a01096b1bfecfc435b4d:-1543620220,58b604089841a010d284c4bcdbe6eeae:1578125232,96a604082741a01042bfef3a9b4ecd8b:1492307880,a92048cce201a010474e55e52fe6f339:-1677208502,15ffbfbf1530a010edf71f3b6e6af2c4:533131167</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-08 20:46:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>5ee9051bf0c54667861b51e520088889</sys_id>
+        <sys_metadata>d9ffbfbfdb30a010cbfd04c2ca9619c1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Navigate to RITM</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_d9ffbfbfdb30a010cbfd04c2ca9619c1</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_d9ffbfbfdb30a010cbfd04c2ca9619c1">e24cc0ccdb41a010cbfd04c2ca961980</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-08 20:46:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

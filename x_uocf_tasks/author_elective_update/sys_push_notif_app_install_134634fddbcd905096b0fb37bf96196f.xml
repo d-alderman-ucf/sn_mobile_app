@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="DELETE">
+        <active>true</active>
+        <last_registered_on>2020-05-28 14:39:01</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-28 14:39:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>134634fddbcd905096b0fb37bf96196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cYW-uUO3fjc:APA91bHjnKOx0_eX6mO6_LFgnsBCa7pww1uFZ35mAeMbxLil59fql8M5YbUDVX7bYeu17Uyp5zYnepD5qmc_Q4Ba8OQjNEbGNajhzhtjDsgsyJ50jeE5X3TkVIs5wvgNZtMFlNL1_-nH</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_134634fddbcd905096b0fb37bf96196f</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-28 14:39:01</sys_updated_on>
+        <sys_user_id display_value="Damian Alderman">a570e5964f3a4600b7fe48f18110c7af</sys_user_id>
+        <token>cYW-uUO3fjc:APA91bHjnKOx0_eX6mO6_LFgnsBCa7pww1uFZ35mAeMbxLil59fql8M5YbUDVX7bYeu17Uyp5zYnepD5qmc_Q4Ba8OQjNEbGNajhzhtjDsgsyJ50jeE5X3TkVIs5wvgNZtMFlNL1_-nH</token>
+    </sys_push_notif_app_install>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_push_notif_app_install_134634fddbcd905096b0fb37bf96196f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2020-05-28 14:39:01</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-28 14:39:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>134634fddbcd905096b0fb37bf96196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cYW-uUO3fjc:APA91bHjnKOx0_eX6mO6_LFgnsBCa7pww1uFZ35mAeMbxLil59fql8M5YbUDVX7bYeu17Uyp5zYnepD5qmc_Q4Ba8OQjNEbGNajhzhtjDsgsyJ50jeE5X3TkVIs5wvgNZtMFlNL1_-nH</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_134634fddbcd905096b0fb37bf96196f</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-28 14:39:01</sys_updated_on>
+        <sys_user_id display_value="Damian Alderman">a570e5964f3a4600b7fe48f18110c7af</sys_user_id>
+        <token>cYW-uUO3fjc:APA91bHjnKOx0_eX6mO6_LFgnsBCa7pww1uFZ35mAeMbxLil59fql8M5YbUDVX7bYeu17Uyp5zYnepD5qmc_Q4Ba8OQjNEbGNajhzhtjDsgsyJ50jeE5X3TkVIs5wvgNZtMFlNL1_-nH</token>
+    </sys_push_notif_app_install>
+</record_update>]]></payload>
+        <payload_hash>286216960</payload_hash>
+        <record_name>cYW-uUO3fjc:APA91bHjnKOx0_eX6mO6_LFgnsBCa7pww1uFZ35mAeMbxLil59fql8M5YbUDVX7bYeu17Uyp5zYnepD5qmc_Q4Ba</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-10-14 13:09:28</sys_created_on>
+        <sys_id>b2c6d462dbb75c10cbfd04c2ca961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175273ad3620000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-10-14 13:09:28</sys_updated_on>
+        <type>Push Notification Installation</type>
+        <update_guid>72c6d4629fb75c10ad5db0d1affd4432</update_guid>
+        <update_guid_history>72c6d4629fb75c10ad5db0d1affd4432:286216960</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-02 18:58:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_push_notif_app_install">sys_push_notif_app_install</sys_db_object>
+        <sys_id>253e154e63244d2186e2861c731f0271</sys_id>
+        <sys_metadata>134634fddbcd905096b0fb37bf96196f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cYW-uUO3fjc:APA91bHjnKOx0_eX6mO6_LFgnsBCa7pww1uFZ35mAeMbxLil59fql8M5YbUDVX7bYeu17Uyp5zYnepD5qmc_Q4Ba8OQjNEbGNajhzhtjDsgsyJ50jeE5X3TkVIs5wvgNZtMFlNL1_-nH</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_push_notif_app_install_134634fddbcd905096b0fb37bf96196f</sys_update_name>
+        <sys_update_version display_value="sys_push_notif_app_install_134634fddbcd905096b0fb37bf96196f">b2c6d462dbb75c10cbfd04c2ca961932</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-02 18:58:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

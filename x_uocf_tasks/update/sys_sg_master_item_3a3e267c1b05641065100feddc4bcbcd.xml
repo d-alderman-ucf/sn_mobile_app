@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order>-1</condition_order>
+        <datasource_table>sc_req_item</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Tickets Assigned to Me">be3e267c1b05641065100feddc4bcbb7</embedded_screen>
+        <item_view display_value="Tickets Assigned to Me Item View">f23e267c1b05641065100feddc4bcbaa</item_view>
+        <name>Tickets Assigned to Me Master Item</name>
+        <screen/>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-10 17:00:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3a3e267c1b05641065100feddc4bcbcd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Tickets Assigned to Me Master Item</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_master_item_3a3e267c1b05641065100feddc4bcbcd</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-10 17:00:49</sys_updated_on>
+        <table/>
+    </sys_sg_master_item>
+</record_update>

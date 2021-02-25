@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Navigate to RITM">a575c484db41a010cbfd04c2ca9619dc</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name>sysapproval.number</field_name>
+        <icon/>
+        <label/>
+        <location>field</location>
+        <name/>
+        <order>10</order>
+        <parent>4269f924db1010d096b0fb37bf9619ca</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 20:48:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4fc50c84db41a010cbfd04c2ca9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_4fc50c84db41a010cbfd04c2ca9619a2</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 20:48:53</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_button_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_button_instance_4fc50c84db41a010cbfd04c2ca9619a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Navigate to RITM">a575c484db41a010cbfd04c2ca9619dc</button><color_theme>primary</color_theme><description/><field_name>sysapproval.number</field_name><icon/><label/><location>field</location><name/><order>10</order><parent>4269f924db1010d096b0fb37bf9619ca</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-12-07 20:48:53</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>4fc50c84db41a010cbfd04c2ca9619a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_button_instance_4fc50c84db41a010cbfd04c2ca9619a2</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-12-07 20:48:53</sys_updated_on><table>sysapproval_approver</table></sys_sg_button_instance></record_update>]]></payload>
+        <payload_hash>1614439073</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2a075062dbb75c10cbfd04c2ca961926</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 20:48:53</sys_created_on>
+        <sys_id>c3c50c84db41a010cbfd04c2ca9619a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1763ef6d8580000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 20:48:53</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>cbc50c845d41a010d73cea412fb551a4</update_guid>
+        <update_guid_history>cbc50c845d41a010d73cea412fb551a4:1614439073</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 21:35:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>507869bd40924079af30ca37582d15d1</sys_id>
+        <sys_metadata>4fc50c84db41a010cbfd04c2ca9619a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_4fc50c84db41a010cbfd04c2ca9619a2</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_4fc50c84db41a010cbfd04c2ca9619a2">c3c50c84db41a010cbfd04c2ca9619a5</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 21:35:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Navigate to RITM">d9ffbfbfdb30a010cbfd04c2ca9619c1</data_item>
+        <description>Navigate to the RITM record from the current Approval form view. </description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="RITM Record Icon">91f04400db41a010cbfd04c2ca96195b</icon>
+        <item_view display_value="RITM Record Header Item View">d1f04400db41a010cbfd04c2ca96195e</item_view>
+        <name>RITM Record</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 20:27:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d5f08800db41a010cbfd04c2ca9619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RITM Record</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_form_screen_d5f08800db41a010cbfd04c2ca9619a0</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 20:27:44</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_form_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_form_screen_d5f08800db41a010cbfd04c2ca9619a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen"><sys_sg_form_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item display_value="Navigate to RITM">d9ffbfbfdb30a010cbfd04c2ca9619c1</data_item><description>Navigate to the RITM record from the current Approval form view. </description><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="RITM Record Icon">91f04400db41a010cbfd04c2ca96195b</icon><item_view display_value="RITM Record Header Item View">d1f04400db41a010cbfd04c2ca96195e</item_view><name>RITM Record</name><order/><parent/><parent_table/><roles_override/><sys_class_name>sys_sg_form_screen</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-12-07 20:27:44</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>d5f08800db41a010cbfd04c2ca9619a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RITM Record</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_form_screen_d5f08800db41a010cbfd04c2ca9619a0</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-12-07 20:27:44</sys_updated_on><table>sc_req_item</table></sys_sg_form_screen></record_update>]]></payload>
+        <payload_hash>1733584352</payload_hash>
+        <record_name>RITM Record</record_name>
+        <reverted_from/>
+        <source>2a075062dbb75c10cbfd04c2ca961926</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 20:27:44</sys_created_on>
+        <sys_id>edf08800db41a010cbfd04c2ca9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1763ee37d830000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 20:27:44</sys_updated_on>
+        <type>Form Screen</type>
+        <update_guid>a1f088002641a0101ccec5b251818faa</update_guid>
+        <update_guid_history>a1f088002641a0101ccec5b251818faa:1733584352</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-08 20:46:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>08a5631bbc04433ca0346878385288d9</sys_id>
+        <sys_metadata>d5f08800db41a010cbfd04c2ca9619a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RITM Record</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_d5f08800db41a010cbfd04c2ca9619a0</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_d5f08800db41a010cbfd04c2ca9619a0">edf08800db41a010cbfd04c2ca9619cf</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-08 20:46:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="DELETE">
+        <item_parameter display_value="RITM SYSID">4a0004ccdb01a010cbfd04c2ca9619ed</item_parameter>
+        <screen/>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-07 20:36:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>aae24880db41a010cbfd04c2ca961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4a0004ccdb01a010cbfd04c2ca9619ed</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_aae24880db41a010cbfd04c2ca961930</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-07 20:36:17</sys_updated_on>
+        <ui_parameter display_value="Go To RITM Record">1df08800db41a010cbfd04c2ca9619a2</ui_parameter>
+    </sys_sg_screen_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_screen_param_map_aae24880db41a010cbfd04c2ca961930</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map"><sys_sg_screen_param_map action="INSERT_OR_UPDATE"><item_parameter display_value="RITM SYSID">4a0004ccdb01a010cbfd04c2ca9619ed</item_parameter><screen/><sys_class_name>sys_sg_screen_param_map</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-12-07 20:36:17</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>aae24880db41a010cbfd04c2ca961930</sys_id><sys_mod_count>0</sys_mod_count><sys_name>4a0004ccdb01a010cbfd04c2ca9619ed</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_screen_param_map_aae24880db41a010cbfd04c2ca961930</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-12-07 20:36:17</sys_updated_on><ui_parameter display_value="Go To RITM Record">1df08800db41a010cbfd04c2ca9619a2</ui_parameter></sys_sg_screen_param_map></record_update>]]></payload>
+        <payload_hash>-897385336</payload_hash>
+        <record_name>4a0004ccdb01a010cbfd04c2ca9619ed</record_name>
+        <reverted_from/>
+        <source>2a075062dbb75c10cbfd04c2ca961926</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-08 20:46:22</sys_created_on>
+        <sys_id>d8de8ddc1b01e01065100feddc4bcbc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176441ae8ef0000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-08 20:46:22</sys_updated_on>
+        <type>Screen parameters mapping</type>
+        <update_guid>2ee248806641a010ef0fe0bda8d39432</update_guid>
+        <update_guid_history>2ee248806641a010ef0fe0bda8d39432:-618447090,2ee248806641a010ef0fe0bda8d39432:-618447090</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-12-08 20:46:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_screen_param_map">sys_sg_screen_param_map</sys_db_object>
+        <sys_id>0b22d6800ce4485cbd6d0c2f1c68fe31</sys_id>
+        <sys_metadata>aae24880db41a010cbfd04c2ca961930</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4a0004ccdb01a010cbfd04c2ca9619ed</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_param_map_aae24880db41a010cbfd04c2ca961930</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_param_map_aae24880db41a010cbfd04c2ca961930">d8de8ddc1b01e01065100feddc4bcbc3</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-12-08 20:46:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

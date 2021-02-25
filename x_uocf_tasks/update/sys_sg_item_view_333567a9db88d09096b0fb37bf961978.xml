@@ -10,7 +10,7 @@
         <sys_created_on>2020-04-08 15:42:05</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>333567a9db88d09096b0fb37bf961978</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_name>My Team's Tasks Item View</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
@@ -18,7 +18,7 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_item_view_333567a9db88d09096b0fb37bf961978</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2020-04-24 15:48:19</sys_updated_on>
+        <sys_updated_on>2021-02-15 16:41:11</sys_updated_on>
         <table>sc_task</table>
         <ui_styles>766d99fedb18d01073b6f1fcbf961918,abfc19fedb18d01073b6f1fcbf961987,b0bd99fedb18d01073b6f1fcbf961905,bf2c99bedb18d01073b6f1fcbf96196f,da9c91fedb18d01073b6f1fcbf961998</ui_styles>
     </sys_sg_item_view>
