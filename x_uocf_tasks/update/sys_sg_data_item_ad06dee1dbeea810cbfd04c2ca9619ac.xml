@@ -5,10 +5,10 @@
         <group_by/>
         <instance_relative_url_qc/>
         <name>My Tickets Near Breaching</name>
-        <query_condition table="task_sla">active=true^business_percentage&gt;=50^task.assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^taskSTARTSWITHRITM^ORDERBYDESCbusiness_percentage<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        <query_condition table="task_sla">active=true^business_percentage&gt;=50^task.assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^task.numberSTARTSWITHRITM^ORDERBYDESCbusiness_percentage<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="false" field="business_percentage" goto="false" newquery="false" operator="&gt;=" or="false" value="50"/>
             <item endquery="false" field="task.assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
-            <item endquery="false" field="task" goto="false" newquery="false" operator="STARTSWITH" or="false" value="RITM"/>
+            <item endquery="false" field="task.number" goto="false" newquery="false" operator="STARTSWITH" or="false" value="RITM"/>
             <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="business_percentage"/>
         </query_condition>
         <query_condition_script/>
@@ -17,7 +17,7 @@
         <sys_created_on>2021-02-25 12:44:05</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>ad06dee1dbeea810cbfd04c2ca9619ac</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>My Tickets Near Breaching</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
@@ -25,7 +25,7 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_data_item_ad06dee1dbeea810cbfd04c2ca9619ac</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2021-02-25 12:57:01</sys_updated_on>
+        <sys_updated_on>2021-02-25 13:06:01</sys_updated_on>
         <table>task_sla</table>
     </sys_sg_data_item>
 </record_update>

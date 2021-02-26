@@ -10,7 +10,7 @@
     var status = layoutFieldGenerator.layoutField(current.sys_class_name, current.sys_id, "state");
     
 	var deepLinkGenerator = new global.MobileDeepLinkGenerator("Agent");
-	var link = deepLinkGenerator.getFormScreenLink('557ec885db222810cbfd04c2ca96192c', current.getTableName(), current.getValue("sys_id"));
+	var link = deepLinkGenerator.getFormScreenLink('197ec8c5db222810cbfd04c2ca961926', current.getTableName(), current.getValue("sys_id"));
 	
 	var json = {};
 	
@@ -35,7 +35,7 @@
         <sys_created_on>2021-02-23 19:35:16</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>0ed061c1dba62810cbfd04c2ca961934</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Mobile - Watchlist Comments Added</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
@@ -43,6 +43,6 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_push_notif_msg_content_0ed061c1dba62810cbfd04c2ca961934</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2021-02-23 19:36:45</sys_updated_on>
+        <sys_updated_on>2021-02-25 20:29:35</sys_updated_on>
     </sys_push_notif_msg_content>
 </record_update>
