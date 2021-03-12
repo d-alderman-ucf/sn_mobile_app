@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Navigate to RITM Record from Task">e54c2b96db1ea810cbfd04c2ca9619dc</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name>task</field_name>
+        <icon/>
+        <label/>
+        <location>field</location>
+        <name/>
+        <order>20</order>
+        <parent>967a52e11bae681065100feddc4bcb9a</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-02-26 18:26:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>501ea08e1be6e81065100feddc4bcbac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_501ea08e1be6e81065100feddc4bcbac</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-02-26 18:26:51</sys_updated_on>
+        <table>task_sla</table>
+    </sys_sg_button_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_button_instance_501ea08e1be6e81065100feddc4bcbac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Navigate to RITM Record from Task">e54c2b96db1ea810cbfd04c2ca9619dc</button><color_theme>primary</color_theme><description/><field_name>task</field_name><icon/><label/><location>field</location><name/><order>20</order><parent>967a52e11bae681065100feddc4bcb9a</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2021-02-26 18:26:51</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>501ea08e1be6e81065100feddc4bcbac</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_button_instance_501ea08e1be6e81065100feddc4bcbac</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2021-02-26 18:26:51</sys_updated_on><table>task_sla</table></sys_sg_button_instance></record_update>]]></payload>
+        <payload_hash>-949162741</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>52dbe702dbf2a410cbfd04c2ca961953</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-02-26 18:26:51</sys_created_on>
+        <sys_id>581e648e1be6e81065100feddc4bcb28</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>177df97eb7e0000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-11 18:31:45</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>501e648ef4e6e810220b9ab007eb7b28</update_guid>
+        <update_guid_history>501e648ef4e6e810220b9ab007eb7b28:-949162741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-02-26 18:27:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>04ce7bedcd3045b0bc806b8f2f127790</sys_id>
+        <sys_metadata>501ea08e1be6e81065100feddc4bcbac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_501ea08e1be6e81065100feddc4bcbac</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_501ea08e1be6e81065100feddc4bcbac">581e648e1be6e81065100feddc4bcb28</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-02-26 18:27:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

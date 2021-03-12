@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>A list of all the tickets and tasks assigned to the logged in user. </description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Heart">457680a61b3ea41065100feddc4bcb4d</icon>
+        <item_view/>
+        <name>My Work</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <style>regular</style>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-12 15:06:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>857644e61b3ea41065100feddc4bcb14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Work</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_list_screen_857644e61b3ea41065100feddc4bcb14</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-12 15:06:26</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_list_screen_857644e61b3ea41065100feddc4bcb14</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><description>A list of all the tickets and tasks assigned to the logged in user. </description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Heart">457680a61b3ea41065100feddc4bcb4d</icon><item_view/><name>My Work</name><order/><parent/><parent_table/><roles_override/><style>regular</style><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2021-03-12 15:06:26</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>857644e61b3ea41065100feddc4bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Work</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_list_screen_857644e61b3ea41065100feddc4bcb14</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2021-03-12 15:06:26</sys_updated_on></sys_sg_list_screen></record_update>]]></payload>
+        <payload_hash>450621018</payload_hash>
+        <record_name>My Work</record_name>
+        <reverted_from/>
+        <source>f36fafde1bbaa41065100feddc4bcb8f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-12 15:06:26</sys_created_on>
+        <sys_id>c57644e61b3ea41065100feddc4bcb17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17826f978a80000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-12 15:06:26</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>cd7644e6c83ea41033355c242532e916</update_guid>
+        <update_guid_history>cd7644e6c83ea41033355c242532e916:450621018</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-12 15:20:49</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>1e1103f12d3f4f008c8b3b272baf0040</sys_id>
+        <sys_metadata>857644e61b3ea41065100feddc4bcb14</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Work</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_857644e61b3ea41065100feddc4bcb14</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_857644e61b3ea41065100feddc4bcb14">c57644e61b3ea41065100feddc4bcb17</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-12 15:20:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

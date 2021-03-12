@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">f4dffe6fdbe2e050cbfd04c2ca96196c</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">60dffe6fdbe2e050cbfd04c2ca96196a</icon>
+        <label>Home Launcher Button Instance</label>
+        <location>top</location>
+        <name>Home Launcher Button Instance</name>
+        <order/>
+        <parent>4b5a3564db1010d096b0fb37bf9619fb</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-03 20:54:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fcdffe6fdbe2e050cbfd04c2ca96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Launcher Button Instance</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_fcdffe6fdbe2e050cbfd04c2ca96196e</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-03 20:54:34</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_button_instance_fcdffe6fdbe2e050cbfd04c2ca96196e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">f4dffe6fdbe2e050cbfd04c2ca96196c</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">60dffe6fdbe2e050cbfd04c2ca96196a</icon><label>Home Launcher Button Instance</label><location>top</location><name>Home Launcher Button Instance</name><order/><parent>4b5a3564db1010d096b0fb37bf9619fb</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2021-03-03 20:54:34</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>fcdffe6fdbe2e050cbfd04c2ca96196e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Home Launcher Button Instance</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_button_instance_fcdffe6fdbe2e050cbfd04c2ca96196e</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2021-03-03 20:54:34</sys_updated_on><table/></sys_sg_button_instance></record_update>]]></payload>
+        <payload_hash>-2135494527</payload_hash>
+        <record_name>Home Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>52dbe702dbf2a410cbfd04c2ca961953</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-03 20:54:34</sys_created_on>
+        <sys_id>34dffe6fdbe2e050cbfd04c2ca961971</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>177f9def4130000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-11 18:31:43</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>3cdffe6f69e2e05040f4de1262713270</update_guid>
+        <update_guid_history>3cdffe6f69e2e05040f4de1262713270:-2135494527</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-04 13:57:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>3cd70db42fc24604a3b1b1030da23991</sys_id>
+        <sys_metadata>fcdffe6fdbe2e050cbfd04c2ca96196e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home Launcher Button Instance</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_fcdffe6fdbe2e050cbfd04c2ca96196e</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_fcdffe6fdbe2e050cbfd04c2ca96196e">34dffe6fdbe2e050cbfd04c2ca961971</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-04 13:57:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

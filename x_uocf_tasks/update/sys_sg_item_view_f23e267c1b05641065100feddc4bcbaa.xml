@@ -10,7 +10,7 @@
         <sys_created_on>2020-12-10 17:00:13</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>f23e267c1b05641065100feddc4bcbaa</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Tickets Assigned to Me Item View</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
@@ -18,7 +18,7 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_item_view_f23e267c1b05641065100feddc4bcbaa</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2020-12-10 17:02:26</sys_updated_on>
+        <sys_updated_on>2021-03-03 20:51:46</sys_updated_on>
         <table>sc_req_item</table>
         <ui_styles>2888c27adb1cd01073b6f1fcbf9619f8,84e88a7adb1cd01073b6f1fcbf9619bc,a897c276db1cd01073b6f1fcbf9619b5,f3290e3adb1cd01073b6f1fcbf96192b,fef70e3adb1cd01073b6f1fcbf9619dd</ui_styles>
     </sys_sg_item_view>
