@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Home">4b5a3564db1010d096b0fb37bf9619fb</applet_launcher>
         <order>30</order>
-        <section display_value="Unassigned Tasks">b79608f8db072050cbfd04c2ca961940</section>
+        <section display_value="My Work">b79608f8db072050cbfd04c2ca961940</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
         <sys_created_on>2021-03-19 14:53:30</sys_created_on>
