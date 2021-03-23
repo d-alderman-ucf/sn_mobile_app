@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>sys_view_count</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>10</order>
+        <record_id_field/>
+        <screen display_value="Details">15e51208db0f6c10cbfd04c2ca9619fa</screen>
+        <screen_data_item_table>kb_knowledge</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-17 17:24:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d2f5d208db0f6c10cbfd04c2ca961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_view_count</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_screen_field_d2f5d208db0f6c10cbfd04c2ca961969</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 17:24:22</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_screen_field_d2f5d208db0f6c10cbfd04c2ca961969</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>sys_view_count</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>10</order><record_id_field/><screen display_value="Details">15e51208db0f6c10cbfd04c2ca9619fa</screen><screen_data_item_table>kb_knowledge</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2021-03-17 17:24:22</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>d2f5d208db0f6c10cbfd04c2ca961969</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_view_count</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_screen_field_d2f5d208db0f6c10cbfd04c2ca961969</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2021-03-17 17:24:22</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>1995353619</payload_hash>
+        <record_name>sys_view_count</record_name>
+        <reverted_from/>
+        <source>52dbe702dbf2a410cbfd04c2ca961953</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-17 17:24:22</sys_created_on>
+        <sys_id>d6f5d208db0f6c10cbfd04c2ca96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17841378a750000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 17:24:22</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>def5d208330f6c1010f749ffe0024b6a</update_guid>
+        <update_guid_history>def5d208330f6c1010f749ffe0024b6a:1995353619</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-17 17:29:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>3198884b70134c08a35b213395b41fc4</sys_id>
+        <sys_metadata>d2f5d208db0f6c10cbfd04c2ca961969</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_view_count</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_d2f5d208db0f6c10cbfd04c2ca961969</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_d2f5d208db0f6c10cbfd04c2ca961969">d6f5d208db0f6c10cbfd04c2ca96196b</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 17:29:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

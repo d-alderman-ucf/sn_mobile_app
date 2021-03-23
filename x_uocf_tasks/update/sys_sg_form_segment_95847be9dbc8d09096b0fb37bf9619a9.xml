@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">01847be9dbc8d09096b0fb37bf9619a7</embedded_screen>
-        <form display_value="Open Requested Items">09847be9dbc8d09096b0fb37bf9619a4</form>
+        <form display_value="My Requests">09847be9dbc8d09096b0fb37bf9619a4</form>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

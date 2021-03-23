@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="DELETE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons-buttons","Value":"e904","FontColor":"#2e2e2e","Name":"icon-Flag-Solid","BackgroundColor":"#2e2e2e"}</icon>
+        <name>icon-Flag-Solid</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-26 20:16:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>89507741db09105096b0fb37bf96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Flag-Solid</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_icon_89507741db09105096b0fb37bf96195a</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-06-10 17:04:20</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_icon_89507741db09105096b0fb37bf96195a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons-buttons","Value":"e904","FontColor":"#2e2e2e","Name":"icon-Flag-Solid","BackgroundColor":"#2e2e2e"}</icon>
+        <name>icon-Flag-Solid</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-26 20:16:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>89507741db09105096b0fb37bf96195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Flag-Solid</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_icon_89507741db09105096b0fb37bf96195a</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-06-10 17:04:20</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>]]></payload>
+        <payload_hash>-1093915269</payload_hash>
+        <record_name>icon-Flag-Solid</record_name>
+        <reverted_from/>
+        <source>71c69462dbb75c10cbfd04c2ca9619ab</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-10-14 13:09:39</sys_created_on>
+        <sys_id>29d61c62dbb75c10cbfd04c2ca961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175273b00210000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-10-14 13:09:39</sys_updated_on>
+        <type>Icon</type>
+        <update_guid>e5d61c6270b75c10934ebb7d06a43118</update_guid>
+        <update_guid_history>e5d61c6270b75c10934ebb7d06a43118:-1093915269</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-22 13:26:38</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_icon">sys_sg_icon</sys_db_object>
+        <sys_id>1a1afb588e38481c987e61a28d53f610</sys_id>
+        <sys_metadata>89507741db09105096b0fb37bf96195a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Flag-Solid</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_icon_89507741db09105096b0fb37bf96195a</sys_update_name>
+        <sys_update_version display_value="sys_sg_icon_89507741db09105096b0fb37bf96195a">29d61c62dbb75c10cbfd04c2ca961918</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-22 13:26:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -4,7 +4,7 @@
         <condition_order>-1</condition_order>
         <datasource_table>sc_task</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Open Tasks">a938e3addb88d09096b0fb37bf9619b1</embedded_screen>
+        <embedded_screen display_value="My Open Tasks">a938e3addb88d09096b0fb37bf9619b1</embedded_screen>
         <item_view display_value="My Open Tasks Item View">2938272ddb88d09096b0fb37bf96192b</item_view>
         <name>My Open Tasks Master Item</name>
         <screen/>

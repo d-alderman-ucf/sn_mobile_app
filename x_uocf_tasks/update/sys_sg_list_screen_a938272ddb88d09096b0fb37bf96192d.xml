@@ -11,7 +11,7 @@
         <hide_screen_name>false</hide_screen_name>
         <icon display_value="icon-Check-Square">e138272ddb88d09096b0fb37bf961929</icon>
         <item_view/>
-        <name>Open Tasks</name>
+        <name>My Open Tasks</name>
         <order/>
         <parent/>
         <parent_table/>
@@ -22,14 +22,14 @@
         <sys_created_on>2020-04-08 15:55:02</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>a938272ddb88d09096b0fb37bf96192d</sys_id>
-        <sys_mod_count>47</sys_mod_count>
-        <sys_name>Open Tasks</sys_name>
+        <sys_mod_count>49</sys_mod_count>
+        <sys_name>My Open Tasks</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_list_screen_a938272ddb88d09096b0fb37bf96192d</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2021-03-11 18:37:38</sys_updated_on>
+        <sys_updated_on>2021-03-19 17:50:49</sys_updated_on>
     </sys_sg_list_screen>
 </record_update>

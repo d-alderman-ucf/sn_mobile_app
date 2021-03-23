@@ -4,7 +4,7 @@
         <condition_order>-1</condition_order>
         <datasource_table>sc_req_item</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Open Requested Items">09847be9dbc8d09096b0fb37bf9619a4</embedded_screen>
+        <embedded_screen display_value="My Requests">09847be9dbc8d09096b0fb37bf9619a4</embedded_screen>
         <item_view display_value="My Requested Items Item View">c5847be9dbc8d09096b0fb37bf96198c</item_view>
         <name>My Requested Items Master Item</name>
         <screen/>

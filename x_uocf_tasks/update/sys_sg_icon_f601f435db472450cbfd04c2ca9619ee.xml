@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon/>
+        <name>My Team's Incidents Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-22 20:32:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f601f435db472450cbfd04c2ca9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Team's Incidents Icon</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_icon_f601f435db472450cbfd04c2ca9619ee</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-22 20:32:46</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

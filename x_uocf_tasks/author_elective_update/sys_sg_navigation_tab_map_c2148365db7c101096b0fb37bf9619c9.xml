@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="DELETE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab/>
+        <order>150</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-15 20:05:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c2148365db7c101096b0fb37bf9619c9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_c2148365db7c101096b0fb37bf9619c9</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-10-14 13:35:21</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_navigation_tab_map_c2148365db7c101096b0fb37bf9619c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map"><sys_sg_navigation_tab_map action="INSERT_OR_UPDATE"><navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation><navigation_tab/><order>150</order><sys_class_name>sys_sg_navigation_tab_map</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-05-15 20:05:37</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>c2148365db7c101096b0fb37bf9619c9</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_navigation_tab_map_c2148365db7c101096b0fb37bf9619c9</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-10-14 13:35:21</sys_updated_on></sys_sg_navigation_tab_map></record_update>]]></payload>
+        <payload_hash>1464284554</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>52dbe702dbf2a410cbfd04c2ca961953</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-17 15:13:36</sys_created_on>
+        <sys_id>3e0835c4db8b6c10cbfd04c2ca96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17840bfd3830000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 15:13:36</sys_updated_on>
+        <type>Navigation Tab Map</type>
+        <update_guid>7a0835c4fb8b6c10adfbe5a487a7ae7f</update_guid>
+        <update_guid_history>7a0835c4fb8b6c10adfbe5a487a7ae7f:0,fdbcd06a5cb75c10a8efe9ec25617566:-1322979157,e7d6dc624bb75c10c28fe6ccab266fa5:-1768965316</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-17 15:14:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_navigation_tab_map">sys_sg_navigation_tab_map</sys_db_object>
+        <sys_id>5ab972a253db41c3b939f6b5a0cd1c11</sys_id>
+        <sys_metadata>c2148365db7c101096b0fb37bf9619c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_tab_map_c2148365db7c101096b0fb37bf9619c9</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_tab_map_c2148365db7c101096b0fb37bf9619c9">3e0835c4db8b6c10cbfd04c2ca96197f</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 15:14:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Assign an Incident">d8922e85db81105096b0fb37bf96194e</button>
+        <button display_value="Incident - Change Assigned To">d8922e85db81105096b0fb37bf96194e</button>
         <color_theme>primary</color_theme>
         <description/>
         <field_name/>

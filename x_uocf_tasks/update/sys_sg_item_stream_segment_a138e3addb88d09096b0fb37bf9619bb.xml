@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Item Stream Segment</name>
         <order>10</order>
-        <screen display_value="Open Tasks">a938272ddb88d09096b0fb37bf96192d</screen>
+        <screen display_value="My Open Tasks">a938272ddb88d09096b0fb37bf96192d</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
         <sys_created_on>2020-04-08 15:55:03</sys_created_on>

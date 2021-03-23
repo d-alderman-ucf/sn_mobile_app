@@ -13,7 +13,7 @@
         <context>global</context>
         <description>Jump to the list screen for the Open Tasks applet</description>
         <destination_alp/>
-        <destination_screen display_value="Open Tasks">a938272ddb88d09096b0fb37bf96192d</destination_screen>
+        <destination_screen display_value="My Open Tasks">a938272ddb88d09096b0fb37bf96192d</destination_screen>
         <destination_type>screen</destination_type>
         <external_browser>false</external_browser>
         <failure_message/>

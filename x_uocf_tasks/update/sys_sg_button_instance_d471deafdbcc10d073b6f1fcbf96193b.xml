@@ -9,7 +9,7 @@
         <label>Change State to Work in Progress</label>
         <location>top</location>
         <name>Change State to Work in Progress</name>
-        <order>70</order>
+        <order>40</order>
         <parent>a938e3addb88d09096b0fb37bf9619b1</parent>
         <parent_table>sys_sg_screen</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
@@ -17,7 +17,7 @@
         <sys_created_on>2020-04-14 14:43:48</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d471deafdbcc10d073b6f1fcbf96193b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Change State to Work in Progress</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
@@ -25,7 +25,7 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_button_instance_d471deafdbcc10d073b6f1fcbf96193b</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2020-04-20 20:20:34</sys_updated_on>
+        <sys_updated_on>2021-03-19 17:50:49</sys_updated_on>
         <table>sc_task</table>
     </sys_sg_button_instance>
 </record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>A list of all the knowledge articles in the General Question knowledge base</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">f0594e84dbcb6c10cbfd04c2ca961916</icon>
+        <item_view/>
+        <name>KB - General Questions</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <style>regular</style>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-17 16:29:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>74594e48dbcb6c10cbfd04c2ca961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB - General Questions</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_list_screen_74594e48dbcb6c10cbfd04c2ca961966</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 16:29:06</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_list_screen_74594e48dbcb6c10cbfd04c2ca961966</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><application_roles/><available_offline>false</available_offline><data_item/><description>A list of all the knowledge articles in the General Question knowledge base</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hidden>false</hidden><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Address-Book">f0594e84dbcb6c10cbfd04c2ca961916</icon><item_view/><name>KB - General Questions</name><order/><parent/><parent_table/><roles_override/><style>regular</style><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2021-03-17 16:29:06</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>74594e48dbcb6c10cbfd04c2ca961966</sys_id><sys_mod_count>0</sys_mod_count><sys_name>KB - General Questions</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_list_screen_74594e48dbcb6c10cbfd04c2ca961966</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2021-03-17 16:29:06</sys_updated_on></sys_sg_list_screen></record_update>]]></payload>
+        <payload_hash>-809535267</payload_hash>
+        <record_name>KB - General Questions</record_name>
+        <reverted_from/>
+        <source>52dbe702dbf2a410cbfd04c2ca961953</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-17 16:29:06</sys_created_on>
+        <sys_id>78594e48dbcb6c10cbfd04c2ca961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1784104f16e0000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 16:29:06</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>70594e48b2cb6c10c3de5b70f42c8668</update_guid>
+        <update_guid_history>70594e48b2cb6c10c3de5b70f42c8668:-809535267</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-17 17:20:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>5a15bda950a24e5484e4cbf8c8c34731</sys_id>
+        <sys_metadata>74594e48dbcb6c10cbfd04c2ca961966</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB - General Questions</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_74594e48dbcb6c10cbfd04c2ca961966</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_74594e48dbcb6c10cbfd04c2ca961966">78594e48dbcb6c10cbfd04c2ca961968</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 17:20:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

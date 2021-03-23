@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Private Task - Set State to Complete">f35094e2dbdc501073b6f1fcbf9619f0</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Change State to Complete</label>
+        <location>leading_swipe</location>
+        <name>Change State to Complete</name>
+        <order>10</order>
+        <parent>b65b4e28db5010d096b0fb37bf961994</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-23 13:57:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0e1d5066db10901073b6f1fcbf9619ae</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Change State to Complete</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_0e1d5066db10901073b6f1fcbf9619ae</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-15 16:15:27</sys_updated_on>
+        <table>vtb_task</table>
+    </sys_sg_button_instance>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_button_instance_0e1d5066db10901073b6f1fcbf9619ae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Private Task - Set State to Complete">f35094e2dbdc501073b6f1fcbf9619f0</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Change State to Complete</label>
+        <location>leading_swipe</location>
+        <name>Change State to Complete</name>
+        <order>10</order>
+        <parent>b65b4e28db5010d096b0fb37bf961994</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-23 13:57:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0e1d5066db10901073b6f1fcbf9619ae</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Change State to Complete</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_0e1d5066db10901073b6f1fcbf9619ae</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-05-15 16:15:27</sys_updated_on>
+        <table>vtb_task</table>
+    </sys_sg_button_instance>
+</record_update>]]></payload>
+        <payload_hash>157920883</payload_hash>
+        <record_name>Change State to Complete</record_name>
+        <reverted_from/>
+        <source>71c69462dbb75c10cbfd04c2ca9619ab</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-10-14 13:09:32</sys_created_on>
+        <sys_id>b3c65862dbb75c10cbfd04c2ca96197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175273ae5890000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-10-14 13:09:32</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>73c6586213b75c104fdf3985b08aec7c</update_guid>
+        <update_guid_history>73c6586213b75c104fdf3985b08aec7c:157920883</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-12 18:27:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>2d72c303a76d468689032a10074fb469</sys_id>
+        <sys_metadata>0e1d5066db10901073b6f1fcbf9619ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change State to Complete</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_0e1d5066db10901073b6f1fcbf9619ae</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_0e1d5066db10901073b6f1fcbf9619ae">b3c65862dbb75c10cbfd04c2ca96197c</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-12 18:27:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

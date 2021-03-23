@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Tasks">d16ddb61db88d09096b0fb37bf96193a</applet_launcher>
+        <order>10</order>
+        <section display_value="My Tasks">196d53a1db88d09096b0fb37bf96190b</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-08 15:07:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>916d53a1db88d09096b0fb37bf96190c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_916d53a1db88d09096b0fb37bf96190c</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:57:30</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_916d53a1db88d09096b0fb37bf96190c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Tasks">d16ddb61db88d09096b0fb37bf96193a</applet_launcher>
+        <order>10</order>
+        <section display_value="My Tasks">196d53a1db88d09096b0fb37bf96190b</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-04-08 15:07:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>916d53a1db88d09096b0fb37bf96190c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_916d53a1db88d09096b0fb37bf96190c</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-04-08 15:57:30</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>]]></payload>
+        <payload_hash>748254202</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>71c69462dbb75c10cbfd04c2ca9619ab</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-10-14 13:09:31</sys_created_on>
+        <sys_id>63c61862dbb75c10cbfd04c2ca9619de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175273ae03b0000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-10-14 13:09:31</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>23c618622ab75c109a9528d1d075f2de</update_guid>
+        <update_guid_history>23c618622ab75c109a9528d1d075f2de:748254202</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-12 18:03:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>b8fb63a85b7540c6b2f67b28dd538759</sys_id>
+        <sys_metadata>916d53a1db88d09096b0fb37bf96190c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_916d53a1db88d09096b0fb37bf96190c</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_916d53a1db88d09096b0fb37bf96190c">63c61862dbb75c10cbfd04c2ca9619de</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-12 18:03:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

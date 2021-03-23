@@ -14,7 +14,7 @@
         <order/>
         <parent/>
         <parent_table/>
-        <report display_value="Unassigned Tickets">fee0a1afdb6ea050cbfd04c2ca961956</report>
+        <report display_value="Teams' Unassigned Tasks">fee0a1afdb6ea050cbfd04c2ca961956</report>
         <roles_override/>
         <sys_class_name>sys_sg_chart_screen</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

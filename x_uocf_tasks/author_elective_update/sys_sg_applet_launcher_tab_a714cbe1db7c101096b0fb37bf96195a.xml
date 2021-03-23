@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="DELETE">
+        <active>true</active>
+        <applet_launcher display_value="My Approvals">da004fa1db7c101096b0fb37bf961944</applet_launcher>
+        <icon display_value="Home icon">ee8cc3367330330018eea18d4ef6a7d7</icon>
+        <label>My Approvals</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-15 20:05:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a714cbe1db7c101096b0fb37bf96195a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Approvals</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_a714cbe1db7c101096b0fb37bf96195a</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-11-19 18:53:35</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_applet_launcher_tab_a714cbe1db7c101096b0fb37bf96195a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab"><sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE"><active>true</active><applet_launcher display_value="My Approvals">da004fa1db7c101096b0fb37bf961944</applet_launcher><icon display_value="Home icon">ee8cc3367330330018eea18d4ef6a7d7</icon><label>My Approvals</label><roles/><sys_class_name>sys_sg_applet_launcher_tab</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-05-15 20:05:31</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>a714cbe1db7c101096b0fb37bf96195a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>My Approvals</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_applet_launcher_tab_a714cbe1db7c101096b0fb37bf96195a</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2020-11-19 18:53:35</sys_updated_on></sys_sg_applet_launcher_tab></record_update>]]></payload>
+        <payload_hash>-1715447814</payload_hash>
+        <record_name>My Approvals</record_name>
+        <reverted_from/>
+        <source>2a075062dbb75c10cbfd04c2ca961926</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-11-19 18:53:35</sys_created_on>
+        <sys_id>7eceface1be8281065100feddc4bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175e1dad20b0000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2020-11-19 18:53:35</sys_updated_on>
+        <type>Applet Launcher Tab</type>
+        <update_guid>76cefacefee82810ec17325a92410454</update_guid>
+        <update_guid_history>76cefacefee82810ec17325a92410454:-1715447814,6bc61862a2b75c107869744b327f1ff2:-431698018</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-17 15:13:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_tab">sys_sg_applet_launcher_tab</sys_db_object>
+        <sys_id>47f26818ba78404da76533d315b539b9</sys_id>
+        <sys_metadata>a714cbe1db7c101096b0fb37bf96195a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Approvals</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_tab_a714cbe1db7c101096b0fb37bf96195a</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_tab_a714cbe1db7c101096b0fb37bf96195a">7eceface1be8281065100feddc4bcb54</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 15:13:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

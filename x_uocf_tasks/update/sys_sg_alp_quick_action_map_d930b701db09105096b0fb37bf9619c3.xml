@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
     <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Incidents">985f2c57dbfcd41096b0fb37bf961974</applet_launcher>
-        <order>10</order>
+        <order>20</order>
         <quick_action_button display_value="Create New Incident">1530b701db09105096b0fb37bf9619c1</quick_action_button>
         <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
@@ -16,6 +16,6 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_alp_quick_action_map_d930b701db09105096b0fb37bf9619c3</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2020-05-26 20:15:48</sys_updated_on>
+        <sys_updated_on>2021-03-23 12:10:21</sys_updated_on>
     </sys_sg_alp_quick_action_map>
 </record_update>
