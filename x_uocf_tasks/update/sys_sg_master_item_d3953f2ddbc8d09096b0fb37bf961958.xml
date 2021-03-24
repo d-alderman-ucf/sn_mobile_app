@@ -4,7 +4,7 @@
         <condition_order>-1</condition_order>
         <datasource_table>sc_req_item</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Team's Open Requests">43953f2ddbc8d09096b0fb37bf961951</embedded_screen>
+        <embedded_screen display_value="My Teams' Open Tickets">43953f2ddbc8d09096b0fb37bf961951</embedded_screen>
         <item_view display_value="My Team's Requested Item Item View">87953fe9dbc8d09096b0fb37bf9619ba</item_view>
         <name>My Team's Requested Item Master Item</name>
         <screen/>
