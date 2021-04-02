@@ -4,7 +4,7 @@
         <condition_order>-1</condition_order>
         <datasource_table>sc_task</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="My Teams' Unassigned Tasks">759b726bdbe2e050cbfd04c2ca961997</embedded_screen>
+        <embedded_screen display_value="Unassigned Tasks">759b726bdbe2e050cbfd04c2ca961997</embedded_screen>
         <item_view display_value="My Team's Unassigned Tickets Item View">6d9b726bdbe2e050cbfd04c2ca96197d</item_view>
         <name>My Team's Unassigned Tickets Master Item</name>
         <screen/>

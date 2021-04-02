@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Create New Private Task from Task">bbae9e2cdb9010d096b0fb37bf9619e6</button>
+        <button display_value="Task - Create New Private Task">bbae9e2cdb9010d096b0fb37bf9619e6</button>
         <color_theme>primary</color_theme>
         <description/>
         <field_name/>

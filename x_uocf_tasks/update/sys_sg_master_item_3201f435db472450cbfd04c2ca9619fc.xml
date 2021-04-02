@@ -4,7 +4,7 @@
         <condition_order>-1</condition_order>
         <datasource_table>incident</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="My Team's Incidents">3201f435db472450cbfd04c2ca9619f3</embedded_screen>
+        <embedded_screen display_value="My Teams' Incidents">3201f435db472450cbfd04c2ca9619f3</embedded_screen>
         <item_view display_value="My Team's Incidents Item View">2e01b435db472450cbfd04c2ca96190c</item_view>
         <name>My Team's Incidents Master Item</name>
         <screen/>

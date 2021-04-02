@@ -2,20 +2,20 @@
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Home">4b5a3564db1010d096b0fb37bf9619fb</applet_launcher>
         <order>30</order>
-        <section display_value="My Work">b79608f8db072050cbfd04c2ca961940</section>
+        <section display_value="My Tasks">7cd80491db5b6090cbfd04c2ca961909</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
-        <sys_created_on>2021-03-19 14:53:30</sys_created_on>
+        <sys_created_on>2021-04-02 14:35:47</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>3f9608f8db072050cbfd04c2ca961942</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>38d80491db5b6090cbfd04c2ca96190c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
-        <sys_update_name>sys_sg_applet_launcher_m2m_section_3f9608f8db072050cbfd04c2ca961942</sys_update_name>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_38d80491db5b6090cbfd04c2ca96190c</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2021-03-19 15:08:33</sys_updated_on>
+        <sys_updated_on>2021-04-02 14:36:00</sys_updated_on>
     </sys_sg_applet_launcher_m2m_section>
 </record_update>

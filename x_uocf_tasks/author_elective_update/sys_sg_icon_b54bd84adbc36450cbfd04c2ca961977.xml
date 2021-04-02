@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="DELETE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","FontColor":"#FFFFFF","Value":"e935","Name":"icon-Cart","type":"user"}</icon>
+        <name>User Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-23 13:36:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b54bd84adbc36450cbfd04c2ca961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_icon_b54bd84adbc36450cbfd04c2ca961977</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-23 13:36:09</sys_updated_on>
+        <type>user</type>
+    </sys_sg_icon>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_icon_b54bd84adbc36450cbfd04c2ca961977</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon"><sys_sg_icon action="INSERT_OR_UPDATE"><icon>{"Shape":"Circle","FontName":"now-mobile-icons","FontColor":"#FFFFFF","Value":"e935","Name":"icon-Cart","type":"user"}</icon><name>User Icon</name><sys_class_name>sys_sg_icon</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2021-03-23 13:36:09</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>b54bd84adbc36450cbfd04c2ca961977</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User Icon</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_icon_b54bd84adbc36450cbfd04c2ca961977</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2021-03-23 13:36:09</sys_updated_on><type>user</type></sys_sg_icon></record_update>]]></payload>
+        <payload_hash>-557199390</payload_hash>
+        <record_name>User Icon</record_name>
+        <reverted_from/>
+        <source>52dbe702dbf2a410cbfd04c2ca961953</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-23 13:36:09</sys_created_on>
+        <sys_id>f94bd84adbc36450cbfd04c2ca961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1785f4cc2b90000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-23 13:36:09</sys_updated_on>
+        <type>Icon</type>
+        <update_guid>f14bd84ac3c364505638909df1d47579</update_guid>
+        <update_guid_history>f14bd84ac3c364505638909df1d47579:-557199390</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-04-02 14:36:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_icon">sys_sg_icon</sys_db_object>
+        <sys_id>0a02857780764682988c71cabfeeb084</sys_id>
+        <sys_metadata>b54bd84adbc36450cbfd04c2ca961977</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_icon_b54bd84adbc36450cbfd04c2ca961977</sys_update_name>
+        <sys_update_version display_value="sys_sg_icon_b54bd84adbc36450cbfd04c2ca961977">f94bd84adbc36450cbfd04c2ca961979</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-04-02 14:36:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

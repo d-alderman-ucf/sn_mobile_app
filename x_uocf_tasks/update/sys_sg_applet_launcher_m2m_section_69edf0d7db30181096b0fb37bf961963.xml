@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Incidents">985f2c57dbfcd41096b0fb37bf961974</applet_launcher>
         <order>30</order>
-        <section display_value="Others">55edf0d7db30181096b0fb37bf961961</section>
+        <section display_value="Other Incidents">55edf0d7db30181096b0fb37bf961961</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
         <sys_created_on>2020-05-20 20:47:23</sys_created_on>

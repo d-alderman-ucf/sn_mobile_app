@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Set State to Skipped">7ec8626bdb4050d073b6f1fcbf9619c8</button>
+        <button display_value="Task - Set State to Skipped">7ec8626bdb4050d073b6f1fcbf9619c8</button>
         <button_parent_table/>
         <carried>false</carried>
         <constant/>

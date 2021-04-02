@@ -4,18 +4,18 @@
         <name>User Icon</name>
         <sys_class_name>sys_sg_icon</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
-        <sys_created_on>2021-03-23 13:36:09</sys_created_on>
+        <sys_created_on>2021-04-02 14:36:01</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>b54bd84adbc36450cbfd04c2ca961977</sys_id>
+        <sys_id>5ce88491db5b6090cbfd04c2ca961912</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>User Icon</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
-        <sys_update_name>sys_sg_icon_b54bd84adbc36450cbfd04c2ca961977</sys_update_name>
+        <sys_update_name>sys_sg_icon_5ce88491db5b6090cbfd04c2ca961912</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2021-03-23 13:36:09</sys_updated_on>
+        <sys_updated_on>2021-04-02 14:36:01</sys_updated_on>
         <type>user</type>
     </sys_sg_icon>
 </record_update>

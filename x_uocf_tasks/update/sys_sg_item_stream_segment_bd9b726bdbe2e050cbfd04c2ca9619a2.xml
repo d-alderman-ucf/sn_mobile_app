@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Item Stream Segment</name>
         <order>10</order>
-        <screen display_value="My Teams' Unassigned Tasks">659b726bdbe2e050cbfd04c2ca961980</screen>
+        <screen display_value="Unassigned Tasks">659b726bdbe2e050cbfd04c2ca961980</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
         <sys_created_on>2021-03-03 20:36:04</sys_created_on>

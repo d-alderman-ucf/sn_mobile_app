@@ -5,7 +5,9 @@
         <auto_redirection>false</auto_redirection>
         <button_table_field_name/>
         <cancel_label>No</cancel_label>
-        <condition/>
+        <condition table="sc_task">stateNOT IN3,7,4^EQ<item display_value="3,7,4" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,7,4"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
         <condition_script/>
         <condition_type>declarative</condition_type>
         <confirm_label>Yes</confirm_label>
@@ -27,7 +29,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Set State to Work in Progress</name>
+        <name>Task - Set State to Work in Progress</name>
         <offline>false</offline>
         <offline_template_field/>
         <offline_template_field_table/>
@@ -51,20 +53,20 @@
         <sys_created_on>2020-04-14 14:43:02</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>b1e056afdbcc10d073b6f1fcbf9619be</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Set State to Work in Progress</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Task - Set State to Work in Progress</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_button_b1e056afdbcc10d073b6f1fcbf9619be</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2020-04-14 14:48:01</sys_updated_on>
+        <sys_updated_on>2021-04-02 15:14:38</sys_updated_on>
         <table>sc_task</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
         <use_overlay>false</use_overlay>
-        <write_back_action_item display_value="Set State to Work in Progress">fa8fcaebdbcc10d073b6f1fcbf96195e</write_back_action_item>
+        <write_back_action_item display_value="Task - Set State to Work in Progress">fa8fcaebdbcc10d073b6f1fcbf96195e</write_back_action_item>
         <zombified_screens/>
     </sys_sg_button>
 </record_update>

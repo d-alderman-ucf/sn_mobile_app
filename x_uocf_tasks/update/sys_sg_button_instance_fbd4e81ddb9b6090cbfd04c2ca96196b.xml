@@ -6,26 +6,26 @@
         <description/>
         <field_name/>
         <icon/>
-        <label>Change State to Complete</label>
-        <location>leading_swipe</location>
-        <name>Change State to Complete</name>
-        <order>10</order>
-        <parent>7cae5582db04549096b0fb37bf9619ff</parent>
-        <parent_table>sys_sg_master_item</parent_table>
+        <label>Mark Closed Complete</label>
+        <location>footer</location>
+        <name>Mark Closed Complete</name>
+        <order>20</order>
+        <parent>38ae5582db04549096b0fb37bf9619fa</parent>
+        <parent_table>sys_sg_screen</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
-        <sys_created_on>2020-04-23 13:56:44</sys_created_on>
+        <sys_created_on>2021-04-02 16:38:19</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>befc1ce2db10901073b6f1fcbf961956</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Change State to Complete</sys_name>
+        <sys_id>fbd4e81ddb9b6090cbfd04c2ca96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mark Closed Complete</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
-        <sys_update_name>sys_sg_button_instance_befc1ce2db10901073b6f1fcbf961956</sys_update_name>
+        <sys_update_name>sys_sg_button_instance_fbd4e81ddb9b6090cbfd04c2ca96196b</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2020-04-24 17:53:20</sys_updated_on>
+        <sys_updated_on>2021-04-02 16:38:19</sys_updated_on>
         <table>vtb_task</table>
     </sys_sg_button_instance>
 </record_update>

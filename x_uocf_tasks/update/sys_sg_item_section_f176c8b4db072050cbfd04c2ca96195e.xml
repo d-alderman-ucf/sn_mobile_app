@@ -2,7 +2,7 @@
     <sys_sg_item_section action="INSERT_OR_UPDATE">
         <active>true</active>
         <data_item/>
-        <destination_screen display_value="My Teams' Unassigned Tasks">659b726bdbe2e050cbfd04c2ca961980</destination_screen>
+        <destination_screen display_value="Unassigned Tasks">659b726bdbe2e050cbfd04c2ca961980</destination_screen>
         <display_title>true</display_title>
         <hide_header>false</hide_header>
         <hide_section_if_empty>true</hide_section_if_empty>

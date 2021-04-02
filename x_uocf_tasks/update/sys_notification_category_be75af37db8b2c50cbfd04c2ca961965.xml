@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_category">
+    <sys_notification_category action="INSERT_OR_UPDATE">
+        <name>Mobile</name>
+        <short_description>For notifications related to mobile devices or push messages. </short_description>
+        <sys_class_name>sys_notification_category</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-29 14:49:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>be75af37db8b2c50cbfd04c2ca961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_notification_category_be75af37db8b2c50cbfd04c2ca961965</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-29 14:49:26</sys_updated_on>
+    </sys_notification_category>
+</record_update>

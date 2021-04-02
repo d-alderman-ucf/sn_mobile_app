@@ -5,7 +5,7 @@
         <active>true</active>
         <advanced_condition/>
         <affected_field_on_event/>
-        <category display_value="Catalog Task" name="Catalog Task">eb52abc14f821300402497dd0210c759</category>
+        <category display_value="Mobile" name="Mobile">be75af37db8b2c50cbfd04c2ca961965</category>
         <collection>sc_task</collection>
         <condition table="sc_task">active=true^assigned_toVALCHANGES^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
@@ -61,7 +61,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>58b282701b81641065100feddc4bcb67</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Mobile - Task Assigned to Me</sys_name>
         <sys_overrides/>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
@@ -70,7 +70,7 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sysevent_email_action_58b282701b81641065100feddc4bcb67</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2021-02-25 20:28:41</sys_updated_on>
+        <sys_updated_on>2021-03-29 14:50:08</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

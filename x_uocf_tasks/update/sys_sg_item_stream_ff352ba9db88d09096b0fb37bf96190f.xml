@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="My Team's Task">b5a2afa1db88d09096b0fb37bf9619c9</data_item>
+        <data_item display_value="My Teams' Tasks">b5a2afa1db88d09096b0fb37bf9619c9</data_item>
         <interleaved_field/>
         <name>My Team's Tasks Item Stream</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>

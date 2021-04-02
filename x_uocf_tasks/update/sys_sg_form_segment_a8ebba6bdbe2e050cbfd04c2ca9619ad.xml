@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Activity Stream">eceb3a6bdbe2e050cbfd04c2ca96199a</embedded_screen>
-        <form display_value="My Teams' Unassigned Tasks">759b726bdbe2e050cbfd04c2ca961997</form>
+        <form display_value="Unassigned Tasks">759b726bdbe2e050cbfd04c2ca961997</form>
         <order>20</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

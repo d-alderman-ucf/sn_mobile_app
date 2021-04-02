@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
     <sys_sg_action_param_map action="INSERT_OR_UPDATE">
-        <button display_value="Set State to Pending">946e588adbcc149096b0fb37bf96194f</button>
+        <button display_value="Task - Set State to Pending">946e588adbcc149096b0fb37bf96194f</button>
         <item_parameter display_value="Update Pending Notes">f93f9116db44949096b0fb37bf9619e9</item_parameter>
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

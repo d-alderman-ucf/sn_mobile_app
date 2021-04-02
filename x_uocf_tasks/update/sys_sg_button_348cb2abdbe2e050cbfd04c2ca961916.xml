@@ -13,7 +13,7 @@
         <context>global</context>
         <description>Jump to the list view of the My Teams' Unassigned Tasks applet</description>
         <destination_alp/>
-        <destination_screen display_value="My Teams' Unassigned Tasks">659b726bdbe2e050cbfd04c2ca961980</destination_screen>
+        <destination_screen display_value="Unassigned Tasks">659b726bdbe2e050cbfd04c2ca961980</destination_screen>
         <destination_type>screen</destination_type>
         <external_browser>false</external_browser>
         <failure_message/>
