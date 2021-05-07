@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="DELETE">
+        <active>true</active>
+        <applet_launcher display_value="Knowledge Articles">e1027d8cdb4b6c10cbfd04c2ca9619b4</applet_launcher>
+        <icon display_value="Information icon">20a8f85b1c003300964f3fc617b23a4b</icon>
+        <label>Articles</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2020-05-28 18:07:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b7d5a5f5db41509073b6f1fcbf9619fa</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Articles</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_b7d5a5f5db41509073b6f1fcbf9619fa</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 15:11:50</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_applet_launcher_tab_b7d5a5f5db41509073b6f1fcbf9619fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab"><sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE"><active>true</active><applet_launcher display_value="Knowledge Articles">e1027d8cdb4b6c10cbfd04c2ca9619b4</applet_launcher><icon display_value="Information icon">20a8f85b1c003300964f3fc617b23a4b</icon><label>Articles</label><roles/><sys_class_name>sys_sg_applet_launcher_tab</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2020-05-28 18:07:14</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>b7d5a5f5db41509073b6f1fcbf9619fa</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Articles</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_applet_launcher_tab_b7d5a5f5db41509073b6f1fcbf9619fa</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2021-03-17 15:11:50</sys_updated_on></sys_sg_applet_launcher_tab></record_update>]]></payload>
+        <payload_hash>1492570991</payload_hash>
+        <record_name>Articles</record_name>
+        <reverted_from/>
+        <source>52dbe702dbf2a410cbfd04c2ca961953</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-03-17 15:11:50</sys_created_on>
+        <sys_id>38a7f984db8b6c10cbfd04c2ca9619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17840be33bc0000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-03-17 15:11:50</sys_updated_on>
+        <type>Applet Launcher Tab</type>
+        <update_guid>30a7f984278b6c101695fd4c52ff5bf5</update_guid>
+        <update_guid_history>30a7f984278b6c101695fd4c52ff5bf5:1492570991,5e3fb202322c281017991bba0f330424:296330925,b81f36ceb7e8281046662184317d3589:334430994,6bc6186276b75c10f52065da00a87af4:1394926623</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-04-02 17:01:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_tab">sys_sg_applet_launcher_tab</sys_db_object>
+        <sys_id>030fdda3472c4e7885a5737a190e5c24</sys_id>
+        <sys_metadata>b7d5a5f5db41509073b6f1fcbf9619fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Articles</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_tab_b7d5a5f5db41509073b6f1fcbf9619fa</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_tab_b7d5a5f5db41509073b6f1fcbf9619fa">38a7f984db8b6c10cbfd04c2ca9619f5</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-04-02 17:01:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

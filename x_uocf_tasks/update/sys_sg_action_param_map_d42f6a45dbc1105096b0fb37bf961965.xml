@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
     <sys_sg_action_param_map action="INSERT_OR_UPDATE">
-        <button display_value="Resolve Incident">5c8beacddb81105096b0fb37bf9619ac</button>
+        <button display_value="Incident - Resolve Incident">5c8beacddb81105096b0fb37bf9619ac</button>
         <item_parameter display_value="Update Closed Code">d686660ddb81105096b0fb37bf9619ce</item_parameter>
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

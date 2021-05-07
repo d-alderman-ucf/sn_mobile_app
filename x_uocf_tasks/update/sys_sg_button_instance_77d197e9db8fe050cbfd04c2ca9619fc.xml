@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Cancel Incident">d6827289dbc1105096b0fb37bf96197e</button>
+        <button display_value="Incident - Cancel Incident">d6827289dbc1105096b0fb37bf96197e</button>
         <color_theme>destructive</color_theme>
         <description/>
         <field_name/>

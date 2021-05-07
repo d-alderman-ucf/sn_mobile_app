@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Approve Approval">01c12cb8db2c9c1096b0fb37bf9619e6</button>
+        <button display_value="Approval - Approve Approval">01c12cb8db2c9c1096b0fb37bf9619e6</button>
         <button_parent_table/>
         <carried>false</carried>
         <constant/>

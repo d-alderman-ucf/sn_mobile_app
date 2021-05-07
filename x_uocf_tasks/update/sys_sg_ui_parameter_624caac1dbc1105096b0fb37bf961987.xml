@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Resolve Incident">5c8beacddb81105096b0fb37bf9619ac</button>
+        <button display_value="Incident - Resolve Incident">5c8beacddb81105096b0fb37bf9619ac</button>
         <button_parent_table>incident</button_parent_table>
         <carried>false</carried>
         <constant/>

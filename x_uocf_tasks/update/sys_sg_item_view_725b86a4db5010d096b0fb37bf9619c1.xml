@@ -10,7 +10,7 @@
         <sys_created_on>2020-04-17 16:51:07</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>725b86a4db5010d096b0fb37bf9619c1</sys_id>
-        <sys_mod_count>25</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_name>My Private Tasks Item View</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
@@ -18,7 +18,7 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_item_view_725b86a4db5010d096b0fb37bf9619c1</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2020-05-15 16:15:27</sys_updated_on>
+        <sys_updated_on>2021-04-30 12:21:33</sys_updated_on>
         <table>vtb_task</table>
         <ui_styles>539682f2db1cd01073b6f1fcbf961919,a4658ef2db1cd01073b6f1fcbf9619e7,b8d6c6b6db1cd01073b6f1fcbf961962,f3260ef2db1cd01073b6f1fcbf961937,f937c2f6db1cd01073b6f1fcbf961984</ui_styles>
     </sys_sg_item_view>

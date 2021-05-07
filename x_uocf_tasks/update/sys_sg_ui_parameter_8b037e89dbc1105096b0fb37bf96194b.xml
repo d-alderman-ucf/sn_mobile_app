@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
     <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
-        <button display_value="Cancel Incident">d6827289dbc1105096b0fb37bf96197e</button>
+        <button display_value="Incident - Cancel Incident">d6827289dbc1105096b0fb37bf96197e</button>
         <button_parent_table>incident</button_parent_table>
         <carried>false</carried>
         <constant/>

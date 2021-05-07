@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>A list of all tasks assigned to the current user, including Catalog Tasks and Private Tasks</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Homepage - My Open Tasks</name>
+        <query_condition table="task">active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^stateIN-5,1,2^sys_class_name=sc_task^ORsys_class_name=vtb_task^ORDERBYsys_created_on<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item display_value="-5,1,2" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="-5,1,2"/>
+            <item display_value="Catalog Task" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="sc_task"/>
+            <item display_value="Private Task" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="true" value="vtb_task"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-04-02 17:09:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7c0c2095dbdb6090cbfd04c2ca96190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Homepage - My Open Tasks</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_data_item_7c0c2095dbdb6090cbfd04c2ca96190f</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-04-02 17:09:31</sys_updated_on>
+        <table>task</table>
+    </sys_sg_data_item>
+</record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
     <sys_sg_action_param_map action="INSERT_OR_UPDATE">
-        <button display_value="Reject Approval">b0a6a4fcdb2c9c1096b0fb37bf96199a</button>
+        <button display_value="Approval - Reject Approval">b0a6a4fcdb2c9c1096b0fb37bf96199a</button>
         <item_parameter display_value="Add Comments">b75e88dfdb3cd41096b0fb37bf9619bb</item_parameter>
         <sys_class_name>sys_sg_action_param_map</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

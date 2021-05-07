@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Tasks">d16ddb61db88d09096b0fb37bf96193a</applet_launcher>
         <order>30</order>
-        <section display_value="My Tickets">216d53a1db88d09096b0fb37bf96196b</section>
+        <section display_value="Other Work">216d53a1db88d09096b0fb37bf96196b</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
         <sys_created_on>2020-04-08 15:07:48</sys_created_on>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Reject Approval">b0a6a4fcdb2c9c1096b0fb37bf96199a</button>
+        <button display_value="Approval - Reject Approval">b0a6a4fcdb2c9c1096b0fb37bf96199a</button>
         <color_theme>destructive</color_theme>
         <description/>
         <field_name/>

@@ -9,7 +9,7 @@
         <label>Mark Closed Complete</label>
         <location>footer</location>
         <name>Mark Closed Complete</name>
-        <order>20</order>
+        <order>30</order>
         <parent>fe5b4e28db5010d096b0fb37bf961962</parent>
         <parent_table>sys_sg_screen</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
@@ -17,7 +17,7 @@
         <sys_created_on>2021-03-12 18:29:33</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>5cf438a61bfea41065100feddc4bcbfd</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Mark Closed Complete</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
@@ -25,7 +25,7 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_button_instance_5cf438a61bfea41065100feddc4bcbfd</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2021-03-12 18:29:33</sys_updated_on>
+        <sys_updated_on>2021-04-30 12:21:33</sys_updated_on>
         <table>vtb_task</table>
     </sys_sg_button_instance>
 </record_update>
