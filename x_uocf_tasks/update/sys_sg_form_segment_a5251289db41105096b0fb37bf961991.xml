@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Activity Stream">6125d2c5db41105096b0fb37bf961967</embedded_screen>
         <form display_value="Incidents">f2afcac1db41105096b0fb37bf9619fb</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>20</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

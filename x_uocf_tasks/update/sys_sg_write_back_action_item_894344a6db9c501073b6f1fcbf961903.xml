@@ -3,6 +3,7 @@
         <description>Set the state of a private task to Skipped.</description>
         <execution_script/>
         <name>Prive Task - Set State to Skipped</name>
+        <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
@@ -22,5 +23,6 @@
         <template>state=7^work_notes={{Add Work Notes}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
 </record_update>

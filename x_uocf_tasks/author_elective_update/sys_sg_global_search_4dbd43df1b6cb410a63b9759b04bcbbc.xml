@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search">
+    <sys_sg_global_search action="DELETE">
+        <default_empty_state/>
+        <filtered_empty_state/>
+        <interleave>true</interleave>
+        <name>Mobile Search  - Incidents and Tickets</name>
+        <placeholder>Search...</placeholder>
+        <search_context_config display_value="Mobile Search - Configuration">4c3cc71f1b6cb410a63b9759b04bcb4d</search_context_config>
+        <sys_class_name>sys_sg_global_search</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-06-10 13:22:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4dbd43df1b6cb410a63b9759b04bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Search  - Incidents and Tickets</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_global_search_4dbd43df1b6cb410a63b9759b04bcbbc</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-06-10 13:22:18</sys_updated_on>
+        <vision_api_enabled>false</vision_api_enabled>
+    </sys_sg_global_search>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>cd464f506fcd4a80869e7b2f5d3ee4c6</instance_id>
+        <instance_name>ucfqa</instance_name>
+        <name>sys_sg_global_search_4dbd43df1b6cb410a63b9759b04bcbbc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search"><sys_sg_global_search action="INSERT_OR_UPDATE"><default_empty_state/><filtered_empty_state/><interleave>true</interleave><name>Mobile Search  - Incidents and Tickets</name><placeholder>Search...</placeholder><search_context_config display_value="Mobile Search - Configuration">4c3cc71f1b6cb410a63b9759b04bcb4d</search_context_config><sys_class_name>sys_sg_global_search</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2021-06-10 13:22:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>4dbd43df1b6cb410a63b9759b04bcbbc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Mobile Search  - Incidents and Tickets</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_global_search_4dbd43df1b6cb410a63b9759b04bcbbc</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2021-06-10 13:22:18</sys_updated_on><vision_api_enabled>false</vision_api_enabled></sys_sg_global_search></record_update>]]></payload>
+        <payload_hash>1360529989</payload_hash>
+        <record_name>Mobile Search  - Incidents and Tickets</record_name>
+        <reverted_from/>
+        <source>bf1dba9b1be8b410a63b9759b04bcb96</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-06-10 13:22:18</sys_created_on>
+        <sys_id>01bd43df1b6cb410a63b9759b04bcbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179f61677b90000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-06-10 13:22:18</sys_updated_on>
+        <type>Global Search Configuration</type>
+        <update_guid>09bd43df5a6cb4101ede7c0dd2d448be</update_guid>
+        <update_guid_history>09bd43df5a6cb4101ede7c0dd2d448be:1360529989</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-06-10 13:23:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_global_search">sys_sg_global_search</sys_db_object>
+        <sys_id>248c419573654a408b1566449ee41524</sys_id>
+        <sys_metadata>4dbd43df1b6cb410a63b9759b04bcbbc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Search  - Incidents and Tickets</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_global_search_4dbd43df1b6cb410a63b9759b04bcbbc</sys_update_name>
+        <sys_update_version display_value="sys_sg_global_search_4dbd43df1b6cb410a63b9759b04bcbbc">01bd43df1b6cb410a63b9759b04bcbbf</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-06-10 13:23:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

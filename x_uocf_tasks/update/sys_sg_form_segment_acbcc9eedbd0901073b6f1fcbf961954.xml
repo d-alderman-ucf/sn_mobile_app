@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Related List">64bc05eedbd0901073b6f1fcbf961915</embedded_screen>
         <form display_value="Open Private Tasks">ba5b4e28db5010d096b0fb37bf96192e</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>30</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

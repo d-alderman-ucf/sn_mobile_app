@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">5d0e2417dbfcd41096b0fb37bf96198b</embedded_screen>
         <form display_value="Critical Incidents">d50e2417dbfcd41096b0fb37bf961989</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

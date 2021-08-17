@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search_m2m_master_item">
+    <sys_sg_global_search_m2m_master_item action="DELETE">
+        <global_search display_value="Mobile Search  - Incidents and Tickets">2aeb47db1b6cb410a63b9759b04bcbbd</global_search>
+        <master_item display_value="Active Incidents Master Item">dba06017dbbcd41096b0fb37bf961932</master_item>
+        <sys_class_name>sys_sg_global_search_m2m_master_item</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-06-10 13:19:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>63dccb5f1b6cb410a63b9759b04bcb68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_global_search_m2m_master_item_63dccb5f1b6cb410a63b9759b04bcb68</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-06-10 13:19:35</sys_updated_on>
+    </sys_sg_global_search_m2m_master_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>cd464f506fcd4a80869e7b2f5d3ee4c6</instance_id>
+        <instance_name>ucfqa</instance_name>
+        <name>sys_sg_global_search_m2m_master_item_63dccb5f1b6cb410a63b9759b04bcb68</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search_m2m_master_item"><sys_sg_global_search_m2m_master_item action="INSERT_OR_UPDATE"><global_search display_value="Mobile Search  - Incidents and Tickets">2aeb47db1b6cb410a63b9759b04bcbbd</global_search><master_item display_value="Active Incidents Master Item">dba06017dbbcd41096b0fb37bf961932</master_item><sys_class_name>sys_sg_global_search_m2m_master_item</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2021-06-10 13:19:35</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>63dccb5f1b6cb410a63b9759b04bcb68</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_global_search_m2m_master_item_63dccb5f1b6cb410a63b9759b04bcb68</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2021-06-10 13:19:35</sys_updated_on></sys_sg_global_search_m2m_master_item></record_update>]]></payload>
+        <payload_hash>-749934007</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>bf1dba9b1be8b410a63b9759b04bcb96</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-06-10 13:19:35</sys_created_on>
+        <sys_id>d51d039f1b6cb410a63b9759b04bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179f613fb650000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-06-10 13:19:35</sys_updated_on>
+        <type>Global Search M2M Item Configuration</type>
+        <update_guid>dd1d039fbb6cb410c67a1cc17a61802b</update_guid>
+        <update_guid_history>dd1d039fbb6cb410c67a1cc17a61802b:-749934007</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-06-10 13:21:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_global_search_m2m_master_item">sys_sg_global_search_m2m_master_item</sys_db_object>
+        <sys_id>44b3e0258f284b89a3a9ac7e397e6551</sys_id>
+        <sys_metadata>63dccb5f1b6cb410a63b9759b04bcb68</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_global_search_m2m_master_item_63dccb5f1b6cb410a63b9759b04bcb68</sys_update_name>
+        <sys_update_version display_value="sys_sg_global_search_m2m_master_item_63dccb5f1b6cb410a63b9759b04bcb68">d51d039f1b6cb410a63b9759b04bcb2c</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-06-10 13:21:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

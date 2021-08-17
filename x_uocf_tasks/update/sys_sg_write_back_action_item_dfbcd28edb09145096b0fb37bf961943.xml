@@ -3,6 +3,7 @@
         <description>Update a Change Request. </description>
         <execution_script/>
         <name>Update (Change Request)</name>
+        <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
@@ -22,5 +23,6 @@
         <template>backout_plan={{Backout Plan}}^category={{Category}}^cmdb_ci={{Configuration Item}}^description={{Description}}^implementation_plan={{Implementation Plan}}^justification={{Justification}}^u_services_could_be_affected={{Other Services}}^end_date={{Planned End}}^start_date={{Planned Start}}^u_req_com={{Requires Communication}}^u_outage_required={{Requires Downtime}}^risk_impact_analysis={{Risk and Impact}}^short_description={{Short Description}}^test_plan={{Test Plan}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
 </record_update>

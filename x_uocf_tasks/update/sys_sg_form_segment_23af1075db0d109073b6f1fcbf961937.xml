@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">a7af1075db0d109073b6f1fcbf961934</embedded_screen>
         <form display_value="Active Change Requests">5baf1075db0d109073b6f1fcbf961931</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

@@ -5,7 +5,9 @@
         <data_item display_value="Navigate to Task Record">75ba46a5db78101096b0fb37bf9619b3</data_item>
         <description>Navigate to the Task record from the current Private Task view. </description>
         <dynamic_prefetch_count/>
+        <empty_state/>
         <fetch_type>not_required</fetch_type>
+        <filter/>
         <hidden>false</hidden>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
@@ -13,9 +15,12 @@
         <item_view display_value="Task Record Header Item View">9c4bc2e5db78101096b0fb37bf96191b</item_view>
         <name>Task Record</name>
         <order/>
+        <override_context_with_data_item>false</override_context_with_data_item>
         <parent/>
         <parent_table/>
         <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
         <sys_created_on>2020-05-15 15:56:00</sys_created_on>
@@ -31,5 +36,7 @@
         <sys_updated_by>da837122</sys_updated_by>
         <sys_updated_on>2020-05-18 14:12:14</sys_updated_on>
         <table>sc_task</table>
+        <use_view_config>false</use_view_config>
+        <view_config/>
     </sys_sg_form_screen>
 </record_update>

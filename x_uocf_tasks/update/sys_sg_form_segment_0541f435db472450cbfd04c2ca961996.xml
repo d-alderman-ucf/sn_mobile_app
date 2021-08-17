@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Related List">0541f435db472450cbfd04c2ca961991</embedded_screen>
         <form display_value="My Teams' Incidents">3201f435db472450cbfd04c2ca9619f3</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>30</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

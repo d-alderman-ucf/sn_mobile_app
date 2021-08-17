@@ -3,6 +3,7 @@
         <description>Create a new private task.</description>
         <execution_script/>
         <name>Task - Create New Private Task</name>
+        <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
@@ -22,5 +23,6 @@
         <template>assignment_group={{Set Assignment Group}}^assigned_to={{Set Assigned To}}^short_description={{Set Short Description}}^work_notes={{Set Work Notes}}^parent={{Set Parent Task ID}}^EQ</template>
         <type>new</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
 </record_update>

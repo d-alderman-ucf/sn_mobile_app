@@ -23,5 +23,7 @@
         <sys_updated_by>da837122</sys_updated_by>
         <sys_updated_on>2020-04-08 15:10:06</sys_updated_on>
         <table>sc_task</table>
+        <use_view_config>false</use_view_config>
+        <view_config/>
     </sys_sg_master_item>
 </record_update>

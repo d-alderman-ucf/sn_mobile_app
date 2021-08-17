@@ -5,7 +5,9 @@
         <data_item/>
         <description>A list of incidents that are not assigned to a user, but are assigned to the current user's groups.</description>
         <dynamic_prefetch_count/>
+        <empty_state/>
         <fetch_type>on_demand</fetch_type>
+        <filter/>
         <hidden>false</hidden>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>

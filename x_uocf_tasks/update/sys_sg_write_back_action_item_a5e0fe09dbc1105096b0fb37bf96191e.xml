@@ -3,6 +3,7 @@
         <description>Set the State value of the current Incident form to Cancelled. </description>
         <execution_script/>
         <name>Cancel Incident</name>
+        <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
@@ -22,5 +23,6 @@
         <template>state=10^assigned_to={{Update Assigned To}}^close_code={{Update Close Code}}^close_notes={{Update Close Notes}}^work_notes={{Update Work Notes}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
 </record_update>

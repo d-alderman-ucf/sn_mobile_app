@@ -2,6 +2,7 @@
     <sys_sg_button action="INSERT_OR_UPDATE">
         <acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label>
         <allow_images_upload>false</allow_images_upload>
+        <auto_jump_to_destination>false</auto_jump_to_destination>
         <auto_redirection>true</auto_redirection>
         <button_table_field_name/>
         <cancel_label/>
@@ -21,6 +22,7 @@
         <field_name/>
         <hide_buttons/>
         <hide_fields/>
+        <highlighted_icons/>
         <jump_to_previous>false</jump_to_previous>
         <jump_to_screen>false</jump_to_screen>
         <link_label/>
@@ -35,6 +37,8 @@
         <phone_number/>
         <phone_type>cellular</phone_type>
         <preconditions>none</preconditions>
+        <rating_span_count>2</rating_span_count>
+        <refresh_screen_after_action>false</refresh_screen_after_action>
         <relative_url>false</relative_url>
         <roles/>
         <save_signature_before_action_execution>false</save_signature_before_action_execution>
@@ -64,6 +68,7 @@
         <table>vtb_task</table>
         <take_value_from_field>true</take_value_from_field>
         <type>redirection</type>
+        <unhighlighted_icons/>
         <use_overlay>false</use_overlay>
         <write_back_action_item/>
         <zombified_screens/>

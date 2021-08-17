@@ -44,6 +44,7 @@
 	
 })(input);]]></execution_script>
         <name>Log Time Worked</name>
+        <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
@@ -63,5 +64,6 @@
         <template>time_worked=javascript:gs.getDurationDate('0 0:30:0')^EQ</template>
         <type>script</type>
         <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
 </record_update>

@@ -3,6 +3,7 @@
         <description>Relate the current Incident record to a Problem record of choice.</description>
         <execution_script/>
         <name>Relate Problem to Incident</name>
+        <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
@@ -22,5 +23,6 @@
         <template>problem_id=^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
     </sys_sg_write_back_action_item>
 </record_update>

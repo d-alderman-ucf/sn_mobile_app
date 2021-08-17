@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Related List">e07e227c1b05641065100feddc4bcb68</embedded_screen>
         <form display_value="Tickets Assigned to Me">be3e267c1b05641065100feddc4bcbb7</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>30</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

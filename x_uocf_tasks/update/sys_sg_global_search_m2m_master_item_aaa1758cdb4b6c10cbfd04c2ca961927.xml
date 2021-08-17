@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search_m2m_master_item">
     <sys_sg_global_search_m2m_master_item action="INSERT_OR_UPDATE">
-        <global_search display_value="Mobile - Search Knowledge Base">3aafa90cdb4b6c10cbfd04c2ca9619e6</global_search>
+        <global_search/>
         <master_item display_value="Knowledge Articles Master Item">54ee2dc8db4b6c10cbfd04c2ca961998</master_item>
         <sys_class_name>sys_sg_global_search_m2m_master_item</sys_class_name>
         <sys_created_by>da837122</sys_created_by>

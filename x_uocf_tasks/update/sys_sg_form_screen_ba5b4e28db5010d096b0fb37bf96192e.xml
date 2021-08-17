@@ -5,7 +5,9 @@
         <data_item/>
         <description/>
         <dynamic_prefetch_count/>
+        <empty_state/>
         <fetch_type>not_required</fetch_type>
+        <filter/>
         <hidden>false</hidden>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>
@@ -13,9 +15,12 @@
         <item_view display_value="My Private Tasks Item View">725b86a4db5010d096b0fb37bf9619c1</item_view>
         <name>Open Private Tasks</name>
         <order/>
+        <override_context_with_data_item>false</override_context_with_data_item>
         <parent/>
         <parent_table/>
         <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
         <sys_class_name>sys_sg_form_screen</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
         <sys_created_on>2020-04-17 16:51:07</sys_created_on>
@@ -31,5 +36,7 @@
         <sys_updated_by>da837122</sys_updated_by>
         <sys_updated_on>2021-04-30 12:21:33</sys_updated_on>
         <table>vtb_task</table>
+        <use_view_config>false</use_view_config>
+        <view_config/>
     </sys_sg_form_screen>
 </record_update>

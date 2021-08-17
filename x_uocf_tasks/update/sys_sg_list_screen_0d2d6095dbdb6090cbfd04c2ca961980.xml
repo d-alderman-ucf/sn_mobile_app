@@ -5,7 +5,9 @@
         <data_item/>
         <description>A list of all tasks assigned to the current user, including Catalog Tasks and Private Tasks</description>
         <dynamic_prefetch_count/>
+        <empty_state/>
         <fetch_type>on_demand</fetch_type>
+        <filter/>
         <hidden>false</hidden>
         <hide_filters>false</hide_filters>
         <hide_screen_name>false</hide_screen_name>

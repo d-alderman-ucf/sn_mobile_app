@@ -2,6 +2,8 @@
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Related List">1c4d2895dbdb6090cbfd04c2ca96198b</embedded_screen>
         <form display_value="Homepage - My Tasks">8d2d64d5dbdb6090cbfd04c2ca9619c0</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
         <order>30</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
