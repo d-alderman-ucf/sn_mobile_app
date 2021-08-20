@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="DELETE">
+        <description>text_02_element_FieldValue</description>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-08-20 14:10:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d9810dda1b82b010ac82a648624bcbd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_d9810dda1b82b010ac82a648624bcbd9</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-08-20 14:10:06</sys_updated_on>
+        <translated_value/>
+        <value>business_duration</value>
+        <view_config_element display_value="text_02_element">59810dda1b82b010ac82a648624bcbd7</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</application>
+        <file_path/>
+        <instance_id>0b368bd46f0d06806626a9cc5d3ee44e</instance_id>
+        <instance_name>ucfdev</instance_name>
+        <name>sys_sg_view_config_element_attribute_d9810dda1b82b010ac82a648624bcbd9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute"><sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE"><description>text_02_element_FieldValue</description><name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name><sys_class_name>sys_sg_view_config_element_attribute</sys_class_name><sys_created_by>da837122</sys_created_by><sys_created_on>2021-08-20 14:10:06</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>d9810dda1b82b010ac82a648624bcbd9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name><sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope><sys_update_name>sys_sg_view_config_element_attribute_d9810dda1b82b010ac82a648624bcbd9</sys_update_name><sys_updated_by>da837122</sys_updated_by><sys_updated_on>2021-08-20 14:10:06</sys_updated_on><translated_value/><value>business_duration</value><view_config_element display_value="text_02_element">59810dda1b82b010ac82a648624bcbd7</view_config_element></sys_sg_view_config_element_attribute></record_update>]]></payload>
+        <payload_hash>-1137503201</payload_hash>
+        <record_name>c2eed5c2b7321010df65f6efce11a9cf</record_name>
+        <reverted_from/>
+        <source>8a2dd0d61bce7010ac82a648624bcb34</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-08-20 14:10:06</sys_created_on>
+        <sys_id>2d810dda1b82b010ac82a648624bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b63e5bfbb0000001</sys_recorded_at>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-08-20 14:10:06</sys_updated_on>
+        <type>View Config Element Attribute</type>
+        <update_guid>25810ddac282b0104f0d0dba16580ddb</update_guid>
+        <update_guid_history>25810ddac282b0104f0d0dba16580ddb:-1137503201</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-08-20 17:55:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_view_config_element_attribute">sys_sg_view_config_element_attribute</sys_db_object>
+        <sys_id>01e73d9592de416383f81e92bf3a63f9</sys_id>
+        <sys_metadata>d9810dda1b82b010ac82a648624bcbd9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_scope_delete display_value="">19a3e254b3014c269f67ceae51d93d61</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_attribute_d9810dda1b82b010ac82a648624bcbd9</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_attribute_d9810dda1b82b010ac82a648624bcbd9">2d810dda1b82b010ac82a648624bcbdb</sys_update_version>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-08-20 17:55:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

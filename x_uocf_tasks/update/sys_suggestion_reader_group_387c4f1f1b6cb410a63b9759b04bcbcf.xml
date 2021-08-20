@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
     <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
         <click_in_mode>false</click_in_mode>
-        <context_config_id display_value="Mobile Search - Configuration">4c3cc71f1b6cb410a63b9759b04bcb4d</context_config_id>
+        <context_config_id display_value="">4c3cc71f1b6cb410a63b9759b04bcb4d</context_config_id>
         <limit>5</limit>
         <order>300</order>
         <section_header/>

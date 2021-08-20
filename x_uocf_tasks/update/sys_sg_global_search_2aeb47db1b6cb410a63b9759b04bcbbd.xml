@@ -5,7 +5,7 @@
         <interleave>true</interleave>
         <name>Mobile Search  - Incidents and Tickets</name>
         <placeholder>Search...</placeholder>
-        <search_context_config display_value="Mobile Search - Configuration">4c3cc71f1b6cb410a63b9759b04bcb4d</search_context_config>
+        <search_context_config display_value="">4c3cc71f1b6cb410a63b9759b04bcb4d</search_context_config>
         <sys_class_name>sys_sg_global_search</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
         <sys_created_on>2021-06-10 13:17:02</sys_created_on>

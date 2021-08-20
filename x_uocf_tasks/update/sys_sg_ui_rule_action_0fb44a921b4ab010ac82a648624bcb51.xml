@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-08-20 19:03:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0fb44a921b4ab010ac82a648624bcb51</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_0fb44a921b4ab010ac82a648624bcb51</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-08-20 19:10:33</sys_updated_on>
+        <target>viewgroup_07</target>
+        <ui_rule display_value="Team Active SLA Percentages ask SLA 50%-75% - List Screen">a164c6521b4ab010ac82a648624bcba0</ui_rule>
+        <value>{&#13;
+"BackgroundColor":"#FBF2B4",&#13;
+"FontColor":"#2F1F0A"&#13;
+}</value>
+    </sys_sg_ui_rule_action>
+</record_update>

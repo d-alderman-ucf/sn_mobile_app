@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="task_sla">business_percentage&gt;50^business_percentage&lt;75^EQ<item endquery="false" field="business_percentage" goto="false" newquery="false" operator="&gt;" or="false" value="50"/>
+            <item endquery="false" field="business_percentage" goto="false" newquery="false" operator="&lt;" or="false" value="75"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>business_percentage</field>
+        <item_vew/>
+        <item_view_element/>
+        <name>Task SLA 50%-75%</name>
+        <style>{"background_color":"#FBF2B4","font_color":"#2F1F0A"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-08-20 18:07:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f867711e1bc6b010ac82a648624bcb1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task SLA 50%-75%</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_ui_style_f867711e1bc6b010ac82a648624bcb1a</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-08-20 18:07:02</sys_updated_on>
+        <table>task_sla</table>
+        <use_item_view_elements>false</use_item_view_elements>
+    </sys_sg_ui_style>
+</record_update>
