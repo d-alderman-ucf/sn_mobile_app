@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Team Active SLA Percentages - List Item Stream">a5810dda1b82b010ac82a648624bcbf5</item_stream>
+        <segment display_value="Team Active SLA Percentages - List Item Stream Segment">ad810dda1b82b010ac82a648624bcbe5</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-08-20 14:10:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>69810dda1b82b010ac82a648624bcbf8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_69810dda1b82b010ac82a648624bcbf8</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-08-20 14:10:06</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
