@@ -6,14 +6,14 @@
         <header_titles/>
         <hide_empty_sections>true</hide_empty_sections>
         <name>My Work</name>
-        <required_roles>x_uocf_tasks.mobile_tester</required_roles>
+        <required_roles>x_uocf_tasks.mobile_tester,itil</required_roles>
         <search_config display_value="Mobile Search  - Incidents and Tickets">2aeb47db1b6cb410a63b9759b04bcbbd</search_config>
         <sys_class_name>sys_sg_applet_launcher</sys_class_name>
         <sys_created_by>da837122</sys_created_by>
         <sys_created_on>2020-04-08 15:07:46</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d16ddb61db88d09096b0fb37bf96193a</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_name>My Work</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
@@ -21,7 +21,7 @@
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_applet_launcher_d16ddb61db88d09096b0fb37bf96193a</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2021-06-10 13:31:52</sys_updated_on>
+        <sys_updated_on>2021-08-26 14:57:27</sys_updated_on>
         <title>My Work</title>
     </sys_sg_applet_launcher>
 </record_update>
