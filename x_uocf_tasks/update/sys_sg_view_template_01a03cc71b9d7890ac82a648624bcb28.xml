@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
     <sys_sg_view_template action="INSERT_OR_UPDATE">
         <active>true</active>
-        <description>Detailed information about a user record, in profile form.</description>
-        <name>User Profile</name>
+        <description>Card to display RITM or TASK info</description>
+        <name>Ticket and Task Info</name>
         <preview_image/>
         <root_view_attrs_json/>
         <sys_class_name>sys_sg_view_template</sys_class_name>
@@ -10,15 +10,15 @@
         <sys_created_on>2021-07-16 14:04:41</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>01a03cc71b9d7890ac82a648624bcb28</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>User Profile</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Ticket and Task Info</sys_name>
         <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
         <sys_update_name>sys_sg_view_template_01a03cc71b9d7890ac82a648624bcb28</sys_update_name>
         <sys_updated_by>da837122</sys_updated_by>
-        <sys_updated_on>2021-07-16 14:04:41</sys_updated_on>
-        <template_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Id":"Root","Children":[]}</template_json>
+        <sys_updated_on>2021-08-24 15:37:00</sys_updated_on>
+        <template_json>{"Type":"ViewGroup","Margin":{"Top":17,"Bottom":15},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Id":"Root","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Id":"viewgroup_01","Children":[{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Margin":{"Right":12},"Id":"viewgroup_02","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":16},"MaxLines":1,"Height":25,"Width":100,"TextAlignment":"Center","CellId":"text_01","Id":"text_01"}]},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Id":"viewgroup_03","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"TextAlignment":"Right","CellId":"text_02","Id":"text_02"}]}]},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":18},"MaxLines":2,"Margin":{"Top":9},"TextAlignment":"Left","CellId":"text_03","Id":"text_03"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Id":"viewgroup_04","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":9},"Id":"viewgroup_05","Children":[{"Type":"Text","TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Margin":{"Right":8},"TextAlignment":"Left","CellId":"text_04","Id":"text_04"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"TextAlignment":"Left","CellId":"text_05","Id":"text_05"}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":8},"Id":"viewgroup_06","Children":[{"Type":"Text","TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Margin":{"Right":8},"TextAlignment":"Left","CellId":"text_06","Id":"text_06"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"TextAlignment":"Left","CellId":"text_07","Id":"text_07"}]}]}]}</template_json>
     </sys_sg_view_template>
 </record_update>

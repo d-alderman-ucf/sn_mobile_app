@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Tickets Assigned to Me">f5bdaa3c1b05641065100feddc4bcb66</data_item>
+        <interleaved_field/>
+        <name>Tickets Assigned to Me Copy Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-08-24 18:45:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f3f6ee2f1b8e7810ac82a648624bcb1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tickets Assigned to Me Copy Item Stream</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_item_stream_f3f6ee2f1b8e7810ac82a648624bcb1a</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-08-24 18:45:51</sys_updated_on>
+        <table>sc_req_item</table>
+    </sys_sg_item_stream>
+</record_update>

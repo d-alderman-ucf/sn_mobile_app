@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>state-11566,number-3907,short_description-22124,u_requested_for-3092,sys_created_on-9764</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":17,"Bottom":15},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","studio_card_id":"b84a7b0d23012300a8ed7f4fc7bf6540","Id":28090,"Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Id":12259,"Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Id":42845,"Children":[{"Type":"Text","CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":25,"Width":100,"Margin":{},"studio_template_field_id":"E1","CellId":"state","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Size":16,"Weight":"semibold"},"Id":11566}]},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Id":42846,"Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E2","CellId":"number","TextColor":"#7d8a8c","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3907}]}]},{"Type":"Text","Margin":{"Top":9},"studio_template_field_id":"E3","CellId":"short_description","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18},"Id":22124},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Id":12261,"Children":[{"Type":"ViewGroup","Margin":{"Top":9},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":34348,"Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","Text":"${u_requested_for}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3091},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","CellId":"u_requested_for","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3092}]},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":34349,"Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E5","Text":"${sys_created_on}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":9763},{"Type":"Text","Margin":{},"studio_template_field_id":"E5","CellId":"sys_created_on","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":9764}]}]}]}</item_view_json>
+        <name>Tickets Assigned to Me Copy List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-08-24 18:45:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f7f6ee2f1b8e7810ac82a648624bcb26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tickets Assigned to Me Copy List Screen Item View</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_item_view_f7f6ee2f1b8e7810ac82a648624bcb26</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-08-24 18:45:51</sys_updated_on>
+        <table>sc_req_item</table>
+        <ui_styles>2888c27adb1cd01073b6f1fcbf9619f8,84e88a7adb1cd01073b6f1fcbf9619bc,a897c276db1cd01073b6f1fcbf9619b5,f3290e3adb1cd01073b6f1fcbf96192b,fef70e3adb1cd01073b6f1fcbf9619dd</ui_styles>
+    </sys_sg_item_view>
+</record_update>

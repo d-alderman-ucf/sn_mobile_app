@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_list_map">
+    <sys_sg_related_list_map action="INSERT_OR_UPDATE">
+        <context_field/>
+        <destination_screen display_value="Catalog Tasks">90332986db04549096b0fb37bf961967</destination_screen>
+        <related_list_screen display_value="Related List">b3f6ee2f1b8e7810ac82a648624bcb9f</related_list_screen>
+        <relationship>sc_task.request_item</relationship>
+        <sys_class_name>sys_sg_related_list_map</sys_class_name>
+        <sys_created_by>da837122</sys_created_by>
+        <sys_created_on>2021-08-24 18:45:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fbf6ee2f1b8e7810ac82a648624bcba1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>90332986db04549096b0fb37bf961967</sys_name>
+        <sys_package display_value="Tasks" source="x_uocf_tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tasks">4b2d1f61db88d09096b0fb37bf96190a</sys_scope>
+        <sys_update_name>sys_sg_related_list_map_fbf6ee2f1b8e7810ac82a648624bcba1</sys_update_name>
+        <sys_updated_by>da837122</sys_updated_by>
+        <sys_updated_on>2021-08-24 18:45:52</sys_updated_on>
+    </sys_sg_related_list_map>
+</record_update>
